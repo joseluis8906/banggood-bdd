@@ -23,7 +23,7 @@ import static net.serenity_bdd.samples.banggood.tasks.LookingForAnything.*;
 import static net.serenity_bdd.samples.banggood.tasks.OpenPageAtHome.*;
 import static net.serenity_bdd.samples.banggood.tasks.SelectItemFromResultList.*;
 
-public class SearchByKeywordStepDefinitions {
+public class BuyAnythingStepDefinitions {
 	@Managed
 	WebDriver browser;
 	Actor jose = Actor.named("Jose");
