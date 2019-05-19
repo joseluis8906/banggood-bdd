@@ -1,0 +1,1 @@
+package net.serenity_bdd.samples.etsy;

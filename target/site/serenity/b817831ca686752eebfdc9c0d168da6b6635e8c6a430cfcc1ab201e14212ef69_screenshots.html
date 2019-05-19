@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" href="fontawesome-free-5.7.2-web/css/all.min.css">
+<link rel="stylesheet" href="fontawesome-free-5.7.2-web/css/v4-shims.min.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.css">
+<link rel="stylesheet" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js"></script><!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.19/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.19/datatables.min.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.19/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.19/datatables.bootstrap4.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname"></span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="53078dab913993f2c4b6bcaa6d03a61b756dadc4a6c584804d33ca1f03134909.html">Buy Anything</a></span>
+                > <span class="truncate-60"><a
+                    href="b817831ca686752eebfdc9c0d168da6b6635e8c6a430cfcc1ab201e14212ef69.html">Should list items and buy anything </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 19-05-2019 16:05</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Buy Anything</span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                In order to look anything
+As a potential buyer
+I want to be able to buy anything that I feel like
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Should list items and buy anything
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="c741a5a0e63decd86e09a92b6ee342cab1e4e1676a4a051e5972d72839ef6efd.png" title=" Given I want to navigate the web" width="1366"/>
+                <img src="c741a5a0e63decd86e09a92b6ee342cab1e4e1676a4a051e5972d72839ef6efd.png" title=" Jose open page at home" width="1366"/>
+                <img src="c741a5a0e63decd86e09a92b6ee342cab1e4e1676a4a051e5972d72839ef6efd.png" title=" Jose opens the Banggood page" width="1366"/>
+                <img src="c741a5a0e63decd86e09a92b6ee342cab1e4e1676a4a051e5972d72839ef6efd.png" title=" Jose open page at home (completed)" width="1366"/>
+                <img src="ac58434401051023ca2e9be8125c70e321dc20a8813dc46d50dcb241ac8f0dec.png" title=" Then the title page should be 'Online Shopping for Cool Gadgets, RC Quadcopter, 3D Printer at Banggood'" width="1366"/>
+                <img src="cc443087d24020c2ad4fdd3ba4bb681a424692899f8617421ec9508eae6c1f4f.png" title=" Then the title page should be 'Online Shopping for Cool Gadgets, RC Quadcopter, 3D Printer at Banggood' (completed)" width="1366"/>
+                <img src="cc443087d24020c2ad4fdd3ba4bb681a424692899f8617421ec9508eae6c1f4f.png" title=" Given I want to navigate the web (completed)" width="1366"/>
+                <img src="790178e99bf05123c51b7e4e2e0c077f05328b16e23a0426bd29c43723cf43ab.png" title=" When I search for items containing 'wool'" width="1366"/>
+                <img src="790178e99bf05123c51b7e4e2e0c077f05328b16e23a0426bd29c43723cf43ab.png" title=" Jose looking for anything" width="1366"/>
+                <img src="790178e99bf05123c51b7e4e2e0c077f05328b16e23a0426bd29c43723cf43ab.png" title=" Jose enters 'wool' into [By.cssSelector: input[name='keywords']]" width="1366"/>
+                <img src="790178e99bf05123c51b7e4e2e0c077f05328b16e23a0426bd29c43723cf43ab.png" title=" Jose hits the 'ENTER' key#pluraliser" width="1366"/>
+                <img src="7797de7194e2533581be16aba8743a04664e67d4c2f50a7a46d17a67f6df54be.png" title=" Jose hits the 'ENTER' key#pluraliser (completed)" width="1366"/>
+                <img src="7797de7194e2533581be16aba8743a04664e67d4c2f50a7a46d17a67f6df54be.png" title=" Jose looking for anything (completed)" width="1366"/>
+                <img src="7797de7194e2533581be16aba8743a04664e67d4c2f50a7a46d17a67f6df54be.png" title=" Then the results of item search should be a value greater than (0)" width="1366"/>
+                <img src="9408c0b321801a0fdc7118ee18b85966cef4cdc1ccbc62a35387f5d769adfe45.png" title=" Then the results of item search should be a value greater than (0) (completed)" width="1366"/>
+                <img src="9408c0b321801a0fdc7118ee18b85966cef4cdc1ccbc62a35387f5d769adfe45.png" title=" When I search for items containing 'wool' (completed)" width="1366"/>
+                <img src="d637fa6df4baf41e2edfaad9ae4aeadd8da8eb2d8fb8c95266b90a643eaa175a.png" title=" And Select an item from the result list" width="1366"/>
+                <img src="d637fa6df4baf41e2edfaad9ae4aeadd8da8eb2d8fb8c95266b90a643eaa175a.png" title=" Jose select item from result list" width="1366"/>
+                <img src="d637fa6df4baf41e2edfaad9ae4aeadd8da8eb2d8fb8c95266b90a643eaa175a.png" title=" Jose clicks on [By.cssSelector: a.detail_link_a]" width="1366"/>
+                <img src="d637fa6df4baf41e2edfaad9ae4aeadd8da8eb2d8fb8c95266b90a643eaa175a.png" title=" Jose select item from result list (completed)" width="1366"/>
+                <img src="d637fa6df4baf41e2edfaad9ae4aeadd8da8eb2d8fb8c95266b90a643eaa175a.png" title=" Then SpecificItemResult should be not null" width="1366"/>
+                <img src="e730790e80caed098065d0c79c8a79ad41bd197374650bf9d7caef54376429ee.png" title=" Then SpecificItemResult should be not null (completed)" width="1366"/>
+                <img src="e730790e80caed098065d0c79c8a79ad41bd197374650bf9d7caef54376429ee.png" title=" And Select an item from the result list (completed)" width="1366"/>
+                <img src="18198edce4aacca7ece6373289a378dccf5370a3ae4d54bd472d85a444b1630a.png" title=" And I add these item to cart" width="1366"/>
+                <img src="18198edce4aacca7ece6373289a378dccf5370a3ae4d54bd472d85a444b1630a.png" title=" Jose add item to cart" width="1366"/>
+                <img src="18198edce4aacca7ece6373289a378dccf5370a3ae4d54bd472d85a444b1630a.png" title=" Jose clicks on [By.cssSelector: div.addToCartBtn a.add_to_cart.clickandsend]" width="1366"/>
+                <img src="17fe103990cb890741c7d0882da619693b2880742033c4ea618c5a8d659d6f73.png" title=" Jose clicks on div.module div.modal_ship_info a.view_cart" width="1366"/>
+                <img src="c024f5185706364f139b1a0a0e2fe6f0ae06c589f65290d3f9c15fe1bffb9cc0.png" title=" Jose clicks on div.module div.modal_ship_info a.view_cart (completed)" width="1366"/>
+                <img src="c024f5185706364f139b1a0a0e2fe6f0ae06c589f65290d3f9c15fe1bffb9cc0.png" title=" Jose add item to cart (completed)" width="1366"/>
+                <img src="c024f5185706364f139b1a0a0e2fe6f0ae06c589f65290d3f9c15fe1bffb9cc0.png" title=" Then item is in the shopping cart should be a value greater than (0)" width="1366"/>
+                <img src="c024f5185706364f139b1a0a0e2fe6f0ae06c589f65290d3f9c15fe1bffb9cc0.png" title=" Then item is in the shopping cart should be a value greater than (0) (completed)" width="1366"/>
+                <img src="c024f5185706364f139b1a0a0e2fe6f0ae06c589f65290d3f9c15fe1bffb9cc0.png" title=" And I add these item to cart (completed)" width="1366"/>
+                <img src="c024f5185706364f139b1a0a0e2fe6f0ae06c589f65290d3f9c15fe1bffb9cc0.png" title=" Then I should only see item related into cart shop: <span class='success-color'>SUCCESS</span>" width="1366"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.0.48</span>
+</div>
+</body>
+</html>
