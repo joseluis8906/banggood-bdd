@@ -1,0 +1,1253 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" style="height: 100%;"><head><script async="" src="//smct.co/tm/?t=banggood.com"></script><script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=an%3Dbanggood%26cn%3Dco%26ln%3Den&amp;v=5.1.2&amp;p0=e%3Dexd%26ci%3D0%26site_type%3Dd&amp;p1=e%3Dce%26m%3D%255B%255D&amp;p2=e%3Dvb%26c%3DUSD%26p%3D%255Bi%25253D1352971%252526pr%25253D34.99%252526q%25253D1%255D&amp;p3=e%3Ddis&amp;adce=1&amp;lwid=d1ef4d2b-0290-49e8-9de5-0cd463b253f8&amp;tld=banggood.com&amp;dtycbr=30185" data-owner="criteo-tag"></script><script async="" src="https://s.pinimg.com/ct/lib/main.532239b0.js"></script><script async="" src="https://z.lenmit.com/retag/tags/?code=undefined&amp;report=&amp;location=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html"></script>
+    <meta charset="UTF-8"> <meta content="no" http-equiv="imagetoolbar">
+<meta content="Banggood.com" name="author">
+<meta property="fb:admins" content="100003030824546">
+<meta property="fb:app_id" content="246353225430376">
+<meta name="google-site-verification" content="tu-6TOxLPIBswTWq201AYf_oRDGv4kzLgZaR6fP7TNU">
+<meta name="msvalidate.01" content="3A526414F02AB11F2538095D656BECC5">
+<meta property="fb:pages" content="1623589344611931">
+<meta property="fb:pages" content="127807294481877">
+<meta property="fb:pages" content="438886816177979">
+<meta name="google-site-verification" content="RXBF1Xqow_YkWM76VBOo6bDgV_J4MOz-TAlNph9PppE">
+<title>Shopping Cart - www.banggood.com</title>
+<link rel="stylesheet" type="text/css" href="//css.banggood.com/min/f=/css/common.css,/css/fontstyle.css,/css/new_common.css,/css/newbag.css?v=2019052317100513">
+<link rel="stylesheet" type="text/css" href="//css.banggood.com/min/f=/css/my_wallet.css?20181220">
+  
+
+<iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript" async="" src="https://s0.ipstatp.com/ad/business/track-log.js"></script><script async="" src="https://sc-static.net/scevent.min.js"></script><script async="" src="https://analytics.webgains.io/clk.min.js"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.8.47" async=""></script><script src="https://connect.facebook.net/signals/config/1391547797784431?v=2.8.47&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#1821"></script><script async="" id="admitad-retag" src="https://cdn.trmit.com/static/js/retag.min.js?r=27"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-N6S53K8&amp;cid=1352732877.1558993707"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-59PHJG"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript">
+    window.G_SWITCH_CONFIG = {
+        //�ع�ͳ���Ƿ���
+        exposure:{
+            wap:{
+                'us': true,
+                'eu': true
+            },
+            pc:{
+                'ar': true,
+                'in': true,
+                'main': true
+            }
+        }
+    };
+</script>
+
+<script type="text/javascript">
+  var jsDomain = "//css.banggood.com";
+  var _DBMPosition = 'shoppingcart';
+  var homeUrl = '';
+  
+  var LANGUAGE = {
+  
+  	LJ_ASK_18_TITLE:"Are you over 18?",
+  	LJ_ASK_18_TXT:"This section of our website contains adult content, please answer the following questions before you access to this area.",
+  	LJ_ASK_18_YES:"Yes",
+  	LJ_ASK_18_NO:"Not yet",
+  	LJ_FOR_MORE_EXCLUSIVE_OFFERS_BY:"For more exclusive offers by",
+  	LJ_CLICKING_HERE:"clicking here",
+  	LP_CANCEL:"Cancel",
+  	LP_YES:"Yes",
+  	LP_NO:"No",
+  	LP_U_HAVE_SELECTED_NO_ITEMS:"You have selected no items !",
+      LP_NO_ITEM_HAVE_BEEN_SELECTED:"No selected items, please select the items you would like to purchase.",
+      LS_REMOVE_WISH:"Do you want to remove this item?",
+      LS_NO_ITEMS_SELECTED: "Oops, no items selected. Please select items you're ready to buy.",
+      LS_REMOVE_ALL_INVALID_ITEMS: "Are you sure you wish to remove all invalid item(s)?",
+      LS_REMOVE_NO_DISPATCHING: "Are you sure to remove this item?",
+      LS_REMOVE_ADDRESS: "Delete selected shipping address?",
+      LS_CHECK_ADDRESS_SELECTED: "Please select a shipping address !",
+      PASSWORD_WRONG_TIP_1: 'Enter 8-16 characters',
+      PASSWORD_WRONG_TIP_2: 'Both letters and numbers are required.',
+      PASSWORD_WRONG_TIP_3: 'The payment password can not be the same with the login password.',
+      LS_ADDRESS_TELEPHONE_MAX_TIP: "Please enter at most 15 numbers.",
+      LS_ADDRESS_TELEPHONE_MIN_TIP: "Please enter at least 5 numbers.",
+      PLEASE_SELECT_PROD: " Please select the products first.",
+      LS_ADDRESS_TITLE_WHY_ASK :"Why ask?",
+      LS_ADDRESS_TELEPHONE_WHY_ASK :"we ask for your phone number just in case we need to reach you regarding your order.",
+      LS_FORM_ZIP_POST_CODE_ERROR1 :"Post code format is incorrect.",
+      LS_FORM_ADDRESS_POSTCODE_MSG: "Please enter %s characters.",
+      LS_CRIMEA_MSG: "Sorry,we do not ship to Crimea.",
+      LA_SWITCH_CURRENCY_PAYMENT: "Switch your currency into %s before using %d payment",
+      LA_CHECKOUT_PAYMENT_ERROR: "Payment error! Please try again.",
+      LA_ADDRESS_TELEPHONE_LEAST_TIP: "Please enter at least %s numbers",
+      LA_ADDRESS_TELEPHONE_MOST_TIP: "Please enter at most %s numbers",
+      LA_PHONE_LENGTH_AND_START_MSG: "Please enter a %d-digit telephone number that starts with the number %s.",
+      LA_ADDRESS_COUNTRY_POSTCODE_NOTES: "please enter %s digits only.",
+      LC_SWITCH_CURRENCY_SHIPMENT: "Switch your currency into %s before using %s shipment.",
+  
+  };
+  if(top!=self){
+      document.domain = 'banggood.com';
+      var host_name=["www.banggood.com","www.htcmania.com","ad.admitad.com","bi.banggood.com","www.growingio.com"];
+      var is_contain=host_name.some(function(item){
+          return document.referrer.match(item)!=null;
+      })
+      if(!is_contain) self.location.href = "about:blank";
+  }
+  
+</script>
+<script type="text/javascript" src="//css.banggood.com/js/libs/jquery-1.9.1.min.js"></script>
+<!--START facebook Monitor-->
+
+<script type="text/javascript">
+  //facebook Monitor
+  var s=new RegExp(".*(?:^|&|[?]|[/])utm_source=([^&]*).*$").exec(document.location.href),_dc3 = s&&s[1];
+  var s=new RegExp(".*(?:^|&|[?]|[/])utm_campaign=([^&]*).*$").exec(document.location.href),_dc4=s&&s[1];
+  if(!_dc3)
+     var _dc1=document.cookie.match(new RegExp("(^| )__bgqueue=([^;]*)(;|$)")),_dc2=_dc1&&_dc1[2].split('|'),_dc3=_dc2&&_dc2[1],_dc4=_dc2&&_dc2[3];
+  var fb_track='',fb_jsonNewFB=undefined,fb_event_name='';
+     if(fb_jsonNewFB!=undefined)fb_jsonNewFB.first_source=_dc3,fb_jsonNewFB.campaign=_dc4;
+  var homeUrl =  'https:' != document.location.protocol ? 'http://www.banggood.com/' : 'https://www.banggood.com/';
+</script>
+<!--START snapchat-->
+<script type="text/javascript">
+  // snapchat
+    var snapchatData = {"shopping_cart":{"price":"40.41","currency":"USD","item_ids":[1352971],"number_items":1,"item_category":"Clothing and Apparel > Men's Clothing > Coats & Jackets > Coat","payment_info_available":1}};
+  </script>
+<!--END snapchat-->
+<!--END facebook Monitor-->
+         <!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nxqzn');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->  
+<script type="text/javascript">
+  <!--BEGIN GA Monitor-->
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        var tid = window.location.host.indexOf('banggood.in') === -1 ? 'UA-3406726-2' : 'UA-3406726-14';
+  	  ga('create', tid, 'banggood.com');
+        ga('require', 'displayfeatures');
+        ga('require', 'GTM-N6S53K8');
+        ga('send', 'pageview');
+  <!--END GA Monitor-->
+</script>
+
+<!-- Google Tag Manager -->
+ 
+<!-- Google Tag Manager -->
+<noscript><iframe
+    src="//www.googletagmanager.com/ns.html?id=GTM-59PHJG"
+    height="0"
+    width="0"
+    style="display:none;visibility:hidden"
+  ></iframe
+></noscript>
+<script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-59PHJG');
+</script>
+<!-- End Google Tag Manager -->
+ <!-- End Google Tag Manager -->
+<!-- Global site tag (gtag.js) - Google Ads-->
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-992047525"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130998589-1');
+  gtag('config', 'AW-992047525');
+  gtag('config', 'AW-976926855');
+</script>
+    <link rel="stylesheet" type="text/css" href="//css.banggood.com/min/f=/libs/loginPop/css/loginPop.css?v=20181231">
+
+<script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+<script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,r,O=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);O.src="javascript:void(0)",O.title="",O.role="presentation",(O.frameElement||O).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(O,r);try{o=O.contentWindow.document}catch(_){i=document.domain,O.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=O.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"DZLR5-UHNSG-U6UB2-VE6H7-W42ZF",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="x2ixkqtiltidcxhmlnbq-f-215d0d909-clientnsv4-s.akamaihd.net",i={"ak.v":20,"ak.cp":"262347","ak.ai":parseInt("160234",10),"ak.ol":"0","ak.cr":8,"ak.ipv":4,"ak.proto":"h2","ak.rid":"41a8e9b","ak.r":27382,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"190.145.117.0","ak.cport":53430,"ak.gh":"181.49.255.23","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1558993731"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/992047525/?random=1558993733265&amp;cv=9&amp;fst=1558993733265&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=679&amp;u_aw=1366&amp;u_cd=24&amp;u_his=5&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa5f2&amp;sendb=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html&amp;ref=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html%3Frmmds%3Dsearch%26ID%3D224528184%26cur_warehouse%3DCN&amp;tiba=Shopping%20Cart%20-%20www.banggood.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/976926855/?random=1558993733267&amp;cv=9&amp;fst=1558993733267&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=768&amp;u_w=1366&amp;u_ah=679&amp;u_aw=1366&amp;u_cd=24&amp;u_his=5&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa5f2&amp;sendb=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html&amp;ref=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html%3Frmmds%3Dsearch%26ID%3D224528184%26cur_warehouse%3DCN&amp;tiba=Shopping%20Cart%20-%20www.banggood.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="//www.rtb123.com/tags/60CE2906-6735-5900-A7B5-B13CEA2B4908/btp.js"></script><script async="" src="https://dc.banggood.com/index.php?com=sess&amp;t=visit&amp;visit=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html&amp;refer=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html%3Frmmds%3Dsearch%26ID%3D224528184%26cur_warehouse%3DCN&amp;info=1558993706243|2539584689|2539584689|1558993706243&amp;bid=0&amp;site=www.banggood.com&amp;domain=banggood.com&amp;bglang=en-GB&amp;utmid=0&amp;customers_id=0&amp;dckf=&amp;ho=0&amp;test_version=&amp;"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/translate_static/js/element/main.js"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/992047525/?random=1558993734178&amp;cv=9&amp;fst=1558993734178&amp;num=1&amp;userId=9714bb69b36a24bb84f368fe7eaff62e&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=768&amp;u_w=1366&amp;u_ah=679&amp;u_aw=1366&amp;u_cd=24&amp;u_his=5&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa5f2&amp;sendb=1&amp;data=event%3Dpage_view%3Becomm_pagetype%3Dcart%3Becomm_prodid%3D1352971-24-28184CO%3Becomm_totalvalue%3D34.99%3Becomm_pcat%3DClothing%20and%20Apparel%20%3E%20Men's%20Clothing%20%3E%20Coats%20%26%20Jackets%20%3E%20Coat%3Becomm_name%3DMen's%20Plus%20Size%20Wool%20Blend%20Double%20Side%20Wearable%20Thicken%20Coat%3Becomm_site%3Dpc%3Becomm_lang%3Den-GB%3Becomm_currency%3DUSD%3Bfirst_source%3Ddirect%3Bcampaign%3D-%3Bmedium%3Dnone%3Bsize%3DL%3Bcolor%3DBlack%3Bmaterial%3DPolyester%2CShearling%3Bbrand%3DChArmkpR%3Bitem_group_id%3D1352971&amp;frm=0&amp;url=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html&amp;ref=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html%3Frmmds%3Dsearch%26ID%3D224528184%26cur_warehouse%3DCN&amp;tiba=Shopping%20Cart%20-%20www.banggood.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/976926855/?random=1558993734180&amp;cv=9&amp;fst=1558993734180&amp;num=1&amp;userId=9714bb69b36a24bb84f368fe7eaff62e&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=768&amp;u_w=1366&amp;u_ah=679&amp;u_aw=1366&amp;u_cd=24&amp;u_his=5&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa5f2&amp;sendb=1&amp;data=event%3Dpage_view%3Becomm_pagetype%3Dcart%3Becomm_prodid%3D1352971-24-28184CO%3Becomm_totalvalue%3D34.99%3Becomm_pcat%3DClothing%20and%20Apparel%20%3E%20Men's%20Clothing%20%3E%20Coats%20%26%20Jackets%20%3E%20Coat%3Becomm_name%3DMen's%20Plus%20Size%20Wool%20Blend%20Double%20Side%20Wearable%20Thicken%20Coat%3Becomm_site%3Dpc%3Becomm_lang%3Den-GB%3Becomm_currency%3DUSD%3Bfirst_source%3Ddirect%3Bcampaign%3D-%3Bmedium%3Dnone%3Bsize%3DL%3Bcolor%3DBlack%3Bmaterial%3DPolyester%2CShearling%3Bbrand%3DChArmkpR%3Bitem_group_id%3D1352971&amp;frm=0&amp;url=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html&amp;ref=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html%3Frmmds%3Dsearch%26ID%3D224528184%26cur_warehouse%3DCN&amp;tiba=Shopping%20Cart%20-%20www.banggood.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script async="" src="https://dc.banggood.com/index.php?com=record&amp;t=aysnCollect&amp;site=www.banggood.com&amp;domain=banggood.com&amp;dcData=1352971&amp;callback=?&amp;"></script><script src="https://www.artfut.com/static/tracking.min.js" defer="defer" onerror="ADMITAD.onError.call(this, &quot;3&quot;)"></script><script src="https://www.artfut.com/static/crossdevice.min.js" defer="defer" onerror="ADMITAD.onError.call(this, &quot;4&quot;)"></script><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/element/TE_20190506_00/e/js/element/element_main.js"></script></head>
+<body class="newcart_item" style="position: relative; min-height: 100%; top: 0px;">
+<div class="top_mt datacube_banner" style="overflow: hidden; display: block; height: 47.0466px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+	<a href="https://www.banggood.com/marketing-H96-MAX-RK3318-TV-box/tid-2456.html?bid=12303&amp;utmid=8712&amp;rmmds=home-top-Banner" data-point-id="1100100135" class="top_topBanner_image_170412 exclick" collected="1"><img src="https://img.staticbg.com/banggood/os/201905/20190527033044_817.gif" alt=""></a>
+	<div class="wrap"><i class="close top_bannerClose_button_170412">×</i></div>
+</div>
+<div class="top">
+	<div class="wrap">
+		<div class="top_right">
+																<div class="top_language" burying-point-data="top_international_link_181212|website||18344194152">
+					<span class="language_info">
+						Country Website
+					</span>
+					<span class="arrow_trangle_down">
+						<i class="triangle_gray"></i>
+					</span>
+					<div class="newdropdown language_select">
+						<ul>
+														<li>
+								<a href="https://usa.banggood.com" burying-point-data="top_EnglishUSA_link_181212|website|18344194217|1" code="usa" collected="1" class="exclick">English(USA)</a>
+							</li>
+														<li>
+								<a href="https://br.banggood.com" burying-point-data="top_Brasil_link_181212|website|18344194246|1" code="br" collected="1" class="exclick">Brasil(Português)</a>
+							</li>
+														<li>
+								<a href="https://de.banggood.com" burying-point-data="top_Deutschland_link_181212|website|18344194308|1" code="de" collected="1" class="exclick">Deutschland</a>
+							</li>
+														<li>
+								<a href="https://es.banggood.com" burying-point-data="top_Spain_link_181212|website|18344194330|1" code="es" collected="1" class="exclick">Español</a>
+							</li>
+														<li>
+								<a href="https://fr.banggood.com" burying-point-data="top_France_link_181212|website|18344194353|1" code="fr" collected="1" class="exclick">Français</a>
+							</li>
+														<li>
+								<a href="https://it.banggood.com" burying-point-data="top_Italia_link_181212|website|18344194413|1" code="it" collected="1" class="exclick">Italia</a>
+							</li>
+														<li>
+								<a href="https://uk.banggood.com" burying-point-data="top_EnglishUK_link_181212|website|18344194434|1" code="uk" collected="1" class="exclick">English(UK)</a>
+							</li>
+														<li>
+								<a href="https://nl.banggood.com" burying-point-data="top_Nederlands_link_181212|website|18344194454|1" code="nl" collected="1" class="exclick">Nederlands</a>
+							</li>
+														<li>
+								<a href="https://www.banggood.in" burying-point-data="top_India_link_181212|website|18344194515|1" code="in" collected="1" class="exclick">India</a>
+							</li>
+														<li>
+								<a href="https://ar.banggood.com" burying-point-data="top_MiddleEast_link_181212|website|18344194559|1" code="ar" collected="1" class="exclick">العربية</a>
+							</li>
+														<li>
+								<a href="https://ru.banggood.com" burying-point-data="top_Russia_link_181212|website|18344194537|1" code="ru" collected="1" class="exclick">Русский</a>
+							</li>
+														<li>
+								<a href="https://jp.banggood.com" burying-point-data="top_Japan_link_181212|website|18344194619|1" code="jp" collected="1" class="exclick">日本</a>
+							</li>
+														<li>
+								<a href="https://sea.banggood.com" burying-point-data="top_SoutheastAsia_link_181212|website|18344194640|1" code="sea" collected="1" class="exclick">Southeast Asia</a>
+							</li>
+														<li>
+								<a href="https://pt.banggood.com" burying-point-data="top_Portugal_link_181212|website|18344194701|1" code="pt" collected="1" class="exclick">Portugal</a>
+							</li>
+														<li>
+								<a href="https://tr.banggood.com" burying-point-data="top_turkey_link_181212|website|18344194724|1" code="tr" collected="1" class="exclick">Türkiye</a>
+							</li>
+								
+						</ul>
+					</div>
+				</div>
+																<div class="top_language top_language_item_box top_language_item_box1 top_selectLanguage_datalist_170412 homehover nocountclick" data-point-id="1100100143">
+					<span class="language_info">
+						Language
+					</span>
+					<span class="arrow_trangle_down">
+						<i class="triangle_gray"></i>
+					</span>
+										<div class="top_language_item" style="display: none;">
+						<div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" class="goog-te-gadget-simple" style="white-space: nowrap;"><img src="https://www.google.com/images/cleardot.gif" class="goog-te-gadget-icon" alt="" style="background-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_ctrl3.gif&quot;); background-position: -65px 0px;"><span style="vertical-align: middle;"><a aria-haspopup="true" class="goog-te-menu-value" href="javascript:void(0)"><span>Select Language</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span style="border-left: 1px solid rgb(187, 187, 187);">​</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span aria-hidden="true" style="color: rgb(118, 118, 118);">▼</span></a></span></div></div></div>
+					</div>
+									</div>
+								
+				<div class="user_help top_help_button_170412 homehover nocountclick" data-point-id="1100100141">
+					<ul>
+						<li>Help</li>
+						<span class="arrow_trangle_down">
+							<i class="triangle_gray"></i>
+						</span>
+					</ul>
+					<div class="newdropdown top_help_item tophelp">
+						<a href="https://www.banggood.com/Contact-Us_hi111" rel="nofollow" class="a_1 contact_icon top_ContactUs_button_180104 exclick" data-point-id="182202767" collected="1">
+							<i></i>Contact Us</a>
+						<a href="https://www.banggood.com/help_center" rel="nofollow" class="a_2 help_icon top_HC_button_180104 exclick" data-point-id="182202768" collected="1">
+							<i></i>Help Center</a>
+					</div>
+				</div>
+				<div class="user_tracking">
+					<a href="https://www.banggood.com/index.php?com=account&amp;t=ordersList" rel="nofollow" collected="1" class="exclick">My Orders</a>
+				</div>
+				<div data-point-id="1101300102" class="top_userCenter_datalist_170328 top_login nologin"><a href="https://www.banggood.com/login.html" class="signin exclick" collected="1">Sign in</a> or <a href="https://www.banggood.com/login.html?pannel=register" class="signin exclick" collected="1">Register</a>
+
+</div>
+			</div>
+			<div class="top_left">
+				<ul>
+					<li class="affiliate">
+						<a href="https://www.banggood.com/" rel="nofollow" data-point-id="1100100137" class="top_affiliate_button_170412 exclick" collected="1">
+							<u></u>Affiliate</a>
+					</li>
+					<li class="user_tracking mobile">
+							<a href="https://www.banggood.com/AppDownload.html?gasource=global-top-nav" data-point-id="1100100138" rel="nofollow" target="_blank" class="top_saveApp_button_170412 clickandsend exclick" collected="1">
+								<u></u>Get a 10% off APP only coupon</a>
+					</li>
+					<!-- 				<li class="mobile"><a href="http://www.banggood.com/AppDownload.html?gasource=global-top-nav" data-point-id="1100100138" rel="nofollow" target="_blank" class="top_saveApp_button_170412 clickandsend"><u></u>Get a 10% off APP only coupon</a></li> -->
+				</ul>
+
+				<div class="shipto top_country_datalist_170412 clickandsend" onclick="shipNew(1)" data-point-id="1100100140"><b></b><strong>Ship to <em><img src="//css.banggood.com/images/country/small/CO.png">Colombia , USD</em></strong><span class="arrow_trangle_down"><i class="triangle_gray"></i></span></div>
+				<div class="item_regional hide" style="display:none;" data-user="0">
+					<div class="mail_box">
+						<span class="mail_text"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<div class="header">
+    <div class="wrap">
+        <a href="https://www.banggood.com/" data-point-id="1101300108" class="top_backHome_image_170328 logo exclick" collected="1">
+									<img class="scartlogo" src="//css.banggood.com/images/newbglogo.png">
+					</a>
+        <div class="cart_step">
+            <ul>
+                <li class="active"><span>Shopping Cart</span></li>
+                <li><span>Place Order</span></li>
+                <li><span>Pay</span></li>
+                <li><span>Completed</span></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="step_one_main" class="step_one_mains">
+        <div class="wrap package_mail_wrap">
+                <div class="cart_title_item">
+            <h4>All Products</h4>
+                    </div> 
+    </div>
+    <div class="wrap shipping_discount_box">
+            </div>
+    <input name="customers_id" type="hidden" value="0">
+    <div class="wrap arnewcartbox">
+                <div class="newcart_box">
+            <ul class="top_ul_item">
+                <li class="newcart_select"><label data-point-id="1101300109" class="top_selectAll_tapbar_170328 allCheckbox checkbox_on_active"><i></i></label></li>
+                <li class="newcart_product">Select all<span class="producttext"> Product</span></li>
+                <li class="newcart_price">Price</li>
+                <li class="newcart_quantity">Quantity</li>
+                <li class="newcart_total">Total</li>
+                <li class="newcart_options">Options</li>
+            </ul>
+                            <div class="newcart_main">
+                    <h4 class="newcart_list_title">
+                        <label wh="CN_0" id="wh_CN_0" data-point-id="1101300111" class="top_selectWarehouse_tapbar_170328 warehouseCheckbox wh_CN_0 checkbox_on_active">
+                            <i></i>Warehouse/Direct mail: <b>CN</b> (1 Items)
+                        </label>
+                    </h4>
+                                                                                                                                                                        <ul class="newcart_list_items clearfix  hasselect" cart_id="1352971_1-24_500-28184" data-url="https://img.staticbg.com/thumb/list_grid/oaupload/banggood/images/78/C7/fe940374-953a-4559-912c-87667d9e248d.jpg">
+                                    <li class="newcart_select">
+                                        <label data-point-id="1101300112" class="middle_selectProduct_tapbar_170328 itemCheckbox checkbox_on_active" cart_id="1352971_1-24_500-28184" warehouse="CN_0" pid="1352971_1-24_500-28184" main_id=""><i></i></label>
+                                    </li>
+                                    <li class="newcart_product ">
+                                         
+                                        <a href="http://www.banggood.com/Mens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html?rmmds=cart_middle_products" data-point-id="1101300113" class="middle_product_image_170328 img exclick" collected="1"><img class="scartproduct_img" src="https://img.staticbg.com/thumb/list_grid/oaupload/banggood/images/78/C7/fe940374-953a-4559-912c-87667d9e248d.jpg"></a>
+                                        <a href="http://www.banggood.com/Mens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html?rmmds=cart_middle_products" data-point-id="1101300114" class="middle_product_link_170328 title exclick" collected="1">Men's Plus Size Wool Blend Double Side Wearable Thicken Coat</a>
+
+                                                                                                                            <div class="newcart_poa">
+                                           <span>
+                                                                                                                                                     Color: Black
+                                                                                                                                                     Size: L
+                                                                                               <input type="hidden" name="productpoa" value="__Black__L">
+                                           </span>
+                                                                                                    <u data-point-id="1101300115" class="middle_productPoa_button_170328" warehouse="1111" cart_id="1352971_1-24_500-28184" qty="1">Edit</u>
+                                                                                            </div>
+                                                                                                                        <div class="promo_tags">
+                                                                                                                                                                                                <div class="promo">
+                                                        <i class="label">%</i>
+                                                        <span class="promo_span">Promo</span>
+                                                        <div class="tips_text" style="visibility:hidden;">
+                                                                                                                                                                                                Coupon doesn't apply to products with "PROMO" or "VIP" tag.
+                                                                                                                                                                                    </div>
+                                                    </div>
+                                                                                                                                                                                                                                    </div>
+                                                                            </li>
+                                    <li class="newcart_price" data-price="US$34.99">
+                                        US$34.99                                                                                    <s>US$146.31</s><b>Save US$111.32</b>                                                                            </li>
+                                    <li class="newcart_quantity">
+                                        <div class="quantity_item">
+                                            <a data-point-id="1101300116" class="middle_productQuantityOff_button_170328 prev  gray clickandsend" href="javascript:void(0)">－</a>
+                                            <input can_buy_limit="" type="text" stock="47" value="1" oldqty="1" warehouse="1111" cart_id="1352971_1-24_500-28184" onkeyup="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')" total_price="34.99" class="middle_enterQuantity_text_170328" data-point-id="17232040230">
+                                            <a data-point-id="1101300117" class="middle_productQuantityAdd_button_170328 next  clickandsend" href="javascript:void(0)" cart_id="1352971_1-24_500-28184" oldqty="1" total_price="34.99">＋</a>
+                                        </div>
+                                                                            </li>
+                                    <li class="newcart_total" data-total="34.99">US$34.99</li>
+                                    <li class="newcart_options">
+                                        <span data-point-id="1101300118" class="left_producWishlist_button_170328 addwish " data-id="1352971_1-24_500-28184" products_id="1352971" wish_status_products_id="1352971" data-title="Add to Wishlist" data-has-title="Remove from Wishlist"><em>+1</em></span>
+                                        <span data-point-id="1101300119" class="left_productRemove_button_170328 remove" cart_id="1352971_1-24_500-28184" products_id="1352971" data-title="Remove" data-has-title="Remove"></span>
+                                    </li>
+                                    
+                                                                        <div class="clear"></div>
+                                </ul>
+                                                                                            
+                                                                                    </div>
+            
+            
+
+            <ul class="top_ul_item bottom_tool">
+                <li class="newcart_select"><label data-point-id="1101300109" class="top_selectAll_tapbar_170328 allCheckbox checkbox_on_active"><i></i></label></li>
+                <li class="newcart_product">Select all<span data-point-id="1101300110" class="top_remove_tapbar_170328 removeall"><i>×</i> Remove</span></li>
+                
+                                <li class="newcart_removepackage">
+                	                	<label id="dropshiporder" data-point-id="1101300121" class="middle_removeLogo_tapbar_170328 checkbox_on">
+                	                	<i></i>
+                	</label>
+                	Remove Banggood logo from the package
+
+                                    </li>
+                                
+            </ul>
+        </div>
+    </div>
+    <div class="wrap">
+        <div class="newcart_couponpoints">
+            
+            <div class="newcouponpoint">
+	<div class="changecouponcode">
+		<div class="inputbox">
+			<input type="text" name="changecouponcode" placeholder="Enter coupon code" value="" class="code">
+						
+						
+						
+		</div>
+		<span data-point-id="1101300123" class="bottom_Apply_button_170328 apply useCoupon  " data-step="1" data-usecoupstep="2">
+			Apply
+		</span>
+		
+	</div>
+
+    </div>
+
+
+
+<script>
+$('.points_tips').hover(function(){
+	$(this).parent().find('.notice_item').show();
+	var noticeWhite = $(this).parent().find('.notice_item').outerWidth(true);
+	if(typeof(ArType) != 'undefined'){
+		$(this).parent().find('.notice_item').css('left',-(noticeWhite/2-14));
+		$(this).closest('.wrap').css({'position':'relative','z-index':1});
+	}else{
+		$(this).parent().find('.notice_item').css('right',-(noticeWhite/2-14));
+	}
+},function(){
+	$('.notice_item').hide();
+});
+</script>
+            
+            <div class="subtotal">
+		<ul>
+			<li>Order Subtotal: <b style="width: 105px;">US$34.99</b></li>
+						
+				
+			<li style="display: none">COD Fee:<b id="cheout_codfee" style="width: 105px;"></b></li>
+			<li style="display: none">SEA COD Fee:<b id="cheout_seacodfee" style="width: 105px;"></b></li>
+			<li style="display: none">COD Fee:<b id="cheout_incodfee" style="width: 105px;"></b></li>
+			<li style="display: none">BGpay Discount:<b id="cheout_bgpay_discount" style="width: 105px;"></b></li>
+			<li style="display: none">Discount amount:<b id="cheout_mno_discount" style="width: 105px;"></b></li>
+			<li style="display: none">Shipping Discount:<b id="cheout_sp_discount" style="width: 105px;"></b></li>	
+
+						<li class="active">Grand Total:<b style="width: 105px;">US$34.99</b></li>
+					</ul>
+	</div>            
+        </div>
+    </div>
+    <div class="wrap ar_fixed_item">
+        <div class="payment_item payment_item_fixed">
+            <div class="privacy_policy_wrap">
+                <div class="privacy_policy_tip">Please read our <span class="a_link_policy jsPrivacyPolicyBtn bottom_PrivacyPolicy_link_180821" data-point-id="18232010641">Privacy Policy</span></div>
+            </div>
+            <div class="paymentbox">
+                <form action="/index.php" method="post" id="checkoutSubmitFormNew">
+                    <input type="hidden" name="com" value="shopcartnew">
+                    <input type="hidden" id="formTask" name="t" value="checkoutPaypalSubmit">
+                    <input type="hidden" name="payCode" value="paypal">
+                    <input type="hidden" name="isExpress" value="Y">
+                    <input type="hidden" name="step" value="one">
+                </form>
+                <ul class="top_ul_item ">
+                    <li class="newcart_select"><label data-point-id="1101300109" class="top_selectAll_tapbar_170328 allCheckbox checkbox_on"><i></i></label></li>
+                    <li class="newcart_product">Select all<span data-point-id="1101300110" class="top_remove_tapbar_170328 removeall"><i>×</i> Remove</span></li>
+                </ul>
+                <a href="https://www.banggood.com/" data-point-id="1101300126" class="bottom_continueShopping_button_170328 continue exclick" collected="1"><span class="arrow_c"><i><i></i></i></span>Continue Shopping</a>
+                <span class="proceed_parent">
+                    <a class="bottom_proceedToCheckout_button_170328 clickandsend proceed " href="javascript:void(0);" onclick="checkout(this)" data-point-id="1101300128">Proceed to Checkout</a>
+                </span>
+                                <span class="paypal_parent">
+                    <a data-point-id="1101300127" class="bottom_checkoutWithPaypal_button_170328 paypal checkout_btn paycode_label clickandsend" data-pay_label="paypal" href="javascript:void(0);">Check out with
+                </a>
+                </span>
+                                <div class="subtotal">
+		<ul>
+			
+						
+				
+			
+			
+			
+			
+			
+				
+
+						<li class="">Grand Total:<b>US$34.99</b></li>
+					</ul>
+	</div><div class="countselectitem">
+                    Selected <b>1</b> item(s)
+                </div>
+
+                                <span class="ordertext">Pay now with PayPal or proceed to our checkout to complete the payment process.</span>
+                            </div>
+        </div>
+    </div>
+            <div id="paypal_pay_div" style="display:none;"></div>
+
+
+    <script>
+        function flashTime() {
+            $('.newcart_flashdate').each(function(){
+                var o = $(this);
+                $(this).find('.timeShow').timeGo({day:'1'});
+                o.show();
+            });
+        }
+        $(function(){
+            flashTime();
+            tabs('.newcartcoupon_item .good_tabs_title li','click');
+			$(window).trigger("scroll");
+        })
+    </script>
+
+
+<script type="text/javascript">
+    var google_tag_params = {ecomm_prodid:["1352971-24-28184CO"],ecomm_totalvalue:["34.99"],ecomm_pagetype:"cart",ecomm_currency:"USD",ecomm_site:"pc",size:["L"],color:["Black"],material:["Polyester","Shearling"],pattern:[],brand:["ChArmkpR"],item_group_id:["1352971"],ecomm_lang:"en-GB","product_ids":[{"id":1352971,"name":"Men's Plus Size Wool Blend Double Side Wearable Thicken Coat","category":"Coat",brand:"Charmkpr","variant":"POA3800101","price":"US$34.99","quantity":1}],ecomm_pcat:"Clothing and Apparel > Men's Clothing > Coats & Jackets > Coat",ecomm_name:"Men's Plus Size Wool Blend Double Side Wearable Thicken Coat",first_source:"direct",campaign:"-",medium:"none","new_customer":1};
+</script>
+</div>
+  
+<div class="loginPop">
+		<div class="loginPop-cnt">
+				<div class="loginPop-head">
+			<ul class="loginPop-type">
+				<li class="loginPop-login" burying-point-data="left_signIn_button_181126||18331043814">Sign in</li>
+				<li class="loginPop-join" burying-point-data="right_joinUs_button_181126||18331043807">Join us</li>
+			</ul>
+						<i class="loginPop-close ds myIcon" point1="top_closeMessageSignIn_button_181126||18331043818" point2="top_closeMessageJoinUs_button_181126||18331043819"></i>
+		</div>
+				<div class="loginPop-body clearfix">
+			<form class="loginPop-form" onsubmit="return false;">
+								<ul class="loginPop-login-wrap">
+					<li class="loginPop-login-email inputW">
+						<span class="label">Email</span>
+						<label for="loginPop-login-email">
+							<div class="input">
+								<i class="myIcon"></i>
+								<input name="loginPop-login-email" id="loginPop-login-email" type="text" tabindex="1" value="">
+								<div class="dropMenu animate">
+									<div class="listWrap">
+										<ul class="list"><li>gmail.com</li><li>hotmail.com</li><li>yahoo.com</li><li>mail.ru</li><li>aol.com</li><li>hotmail.co.uk</li><li>live.com</li><li>msn.com</li><li>yandex.ru</li><li>hotmail.fr</li></ul>
+									</div>
+									<div class="barWrap">
+										<div class="bar"></div>
+									</div>
+								</div>
+							</div>
+						</label>
+						<p></p>
+					</li>
+					<li class="loginPop-login-pwd inputW">
+						<span class="label">Password</span>
+						<label for="loginPop-login-pwd">
+							<div class="input">
+								<i class="myIcon"></i>
+								<input name="loginPop-login-pwd" id="loginPop-login-pwd" type="password" maxlength="20" tabindex="2" value="">
+							</div>
+						</label>
+						<p></p>
+					</li>
+					<li class="loginPop-login-submit" burying-point-data="middle_signIn_button_181126||18331043808">
+						<input name="loginPop-login-submit" class="loginPop-login-submit" type="submit" tabindex="4" value="Sign in">
+					</li>
+					<li class="loginPop-login-forgot">
+						<a href="/forget_passwd.html" target="_blank" burying-point-data="left_forgotYourPassword_link_181126||18331043809|1">Forgot your password?</a>
+					</li>
+					<li class="loginPop-third">
+												<p class="loginPop-or">Or login with</p>
+												<ul class="loginPop-others">
+							<li class="loginPop-fb">
+								<a href="/fb.php" class="myIcon" burying-point-data="down_facebook_button_181126||18331043810"></a>
+							</li>
+							<li class="loginPop-gg">
+								<a href="/google.php" class="myIcon" burying-point-data="down_google_button_181126||18331043811"></a>
+							</li>
+							<li class="loginPop-tw">
+								<a href="/twitter.php" class="myIcon" burying-point-data="down_twitter_button_181126||18331043812"></a>
+							</li>
+							<li class="loginPop-vk">
+								<a href="/vk.php" class="myIcon" burying-point-data="down_vk_button_181126||18331043813"></a>
+							</li>
+						</ul>
+												<p class="loginPop-policy">
+							By clicking this button, you agree to our <a href="javascript:void(0);" class="jsPrivacyPolicyBtn">Privacy Policy</a>.
+						</p>
+					</li>
+				</ul>
+			</form>
+			<form class="loginPop-form" onsubmit="return false;">
+								<ul class="loginPop-join-wrap">
+					<li class="loginPop-join-email inputW">
+						<span class="label">Email</span>
+						<label for="loginPop-join-email">
+							<div class="input">
+								<i class="myIcon"></i>
+								<input name="loginPop-join-email" id="loginPop-join-email" type="text" tabindex="6" value="">
+								<div class="dropMenu animate">
+									<div class="listWrap">
+										<ul class="list"><li>gmail.com</li><li>hotmail.com</li><li>yahoo.com</li><li>mail.ru</li><li>aol.com</li><li>hotmail.co.uk</li><li>live.com</li><li>msn.com</li><li>yandex.ru</li><li>hotmail.fr</li></ul>
+									</div>
+									<div class="barWrap">
+										<div class="bar"></div>
+									</div>
+								</div>
+							</div>
+						</label>
+						<p></p>
+					</li>
+					<li class="loginPop-join-pwd inputW">
+						<span class="label">Password</span>
+						<label for="loginPop-join-pwd">
+							<div class="input">
+								<i class="myIcon"></i>
+								<input name="loginPop-join-pwd" id="loginPop-join-pwd" type="password" maxlength="20" tabindex="7" value="">
+							</div>	
+						</label>
+						<p></p>
+					</li>
+					<li class="loginPop-join-confirm inputW">
+						<span class="label">Confirm password</span>
+						<label for="loginPop-join-confirm">
+							<div class="input">
+								<i class="myIcon"></i>
+								<input name="loginPop-join-confirm" id="loginPop-join-confirm" type="password" maxlength="20" tabindex="8" value="">
+							</div>
+						</label>
+						<p></p>
+					</li>
+					<li class="loginPop-join-code inputW">
+						<span class="label">Verification code</span>
+						<label for="loginPop-join-code">
+							<div class="input">
+								<input name="loginPop-join-code" id="loginPop-join-code" type="text" maxlength="4" tabindex="9" value="verification code">
+								<div class="img" burying-point-data="right_verificationCode_image_181126||18331043815">
+									<img class="loginPop-join-codeImg" src="/index.php?com=imagecode&amp;t=getcode&amp;r=1558993733767" title="verification code" alt="verification code">
+								</div>
+							</div>
+						</label>
+						<p></p>
+					</li>
+					<li class="loginPop-join-agree">
+						<i class="radio ds myIcon" burying-point-data="left_termsOfUse_tapbar_181126||18331043816"></i>
+						<span class="text">
+							I agree to Banggood.com <a href="javascript:void(0);" class="jsTermOfUseBtn">Term of Use</a> and <a href="javascript:void(0);" class="jsPrivacyPolicyBtn">Privacy Policy</a>
+						</span>
+						<div class="tip ds">
+							<i class="myIcon"></i><p>Please make sure you agree to our Terms and Conditions.</p>
+						</div>
+					</li>
+					<li class="loginPop-join-submit">
+						<input name="loginPop-join-submit" class="loginPop-join-submit" type="submit" tabindex="10" burying-point-data="down_createYourAccount_button_181126||18331043817" value="Create Your Account">
+					</li>
+				</ul>
+			</form>
+		</div>
+	</div>
+</div>
+<div class="newcommonfoot">
+  <div class="wrap">
+    <div class="newabout">
+      <ul class="contact">
+        <li><a href="/About-Banggood-Ltd__hl14">About Us</a></li>
+        <li><a href="/Privacy-Policy_hl34">Privacy Policy</a></li>
+        <li>
+          <a href="/Terms-And-Conditions_hl42">Terms And Conditions</a>
+        </li>
+        <li>
+          <a href="/Intellectual-Property-Claims_hl98">Intellectual Property Claims</a>
+        </li>
+        <li><a href="/sitemap.html">Site Map</a></li>
+        <li><a href="/Contact-Us_hi111">Contact Us</a></li>
+        <!--<li><a href="">Newsletter</a></li>-->
+      </ul>
+      <div class="share">
+        <a href="http://www.facebook.com/banggood" target="_blank" rel="nofollow" class="fb exclick" collected="1"></a>
+        <a href="http://www.instagram.com/banggood" target="_blank" rel="nofollow" class="ins exclick" collected="1"></a>
+        <a href="http://www.youtube.com/user/BanggoodTV" target="_blank" rel="nofollow" class="youtube exclick" collected="1"></a>
+        <a href="https://twitter.com/Banggood" target="_blank" rel="nofollow" class="tw exclick" collected="1"></a>
+        <a href="http://www.reddit.com/r/Banggoodfans/" target="_blank" rel="nofollow" class="redit exclick" collected="1"></a>
+        <a href="http://blog.banggood.com/" target="_blank" rel="nofollow" class="blog exclick" collected="1"></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="newcommoncopyright foot">
+  <div class="wrap">
+    <div class="authentication">
+      <span class="authitem"><img src="//css.banggood.com/images/footimg/black_top.png"><a href="https://www.resellerratings.com/store/BangGood" target="_blank" collected="1" class="exclick"></a></span>
+      <span class="authitem1"><img src="//css.banggood.com/images/footimg/black_bottom.png"></span>
+          </div>
+    <div class="copyright">
+            <!-- Copyright ©  Banggood All Rights Reserved. -->
+      Copyright ©  Banggood All Rights Reserved.
+    </div>
+  </div>
+</div>
+ <div class="fixed_button fixed_button_new en-GB">
+	
+	    <div class="survey_btn">
+		<a href="https://www.banggood.com/index.php?com=survey&amp;t=oaSurvey" target="_blank" collected="1" class="exclick"><i></i></a>
+		<span class="tips">Satisfaction Survey</span>
+	</div>
+	
+    
+	<!--2016-09-06 app下载引导 top: phone图标修改-->
+	<div class="app_btn right_downLoadApp_button_180613 appdownloadhover homehover" data-point-id="18163012831">
+		<em></em>
+		<div class="mobilebox" style="text-align: center;">
+			<i class="arrow_d"><i><i></i></i></i>
+
+			<div class="downbox">
+				<p class="txt">Download APP to get an exclusive <b>10% off</b> coupon</p>
+				<div class="img" id="top_guide_item" style="width: 100px;display: inline-block;">
+					<img id="mobiledownloadcode" style="width: 100%;" src="/QRcode/app-M140.png" alt="">
+				</div>
+				<p class="apple_google" id="fixedmobilebox_item">
+					<a href="https://banggood.app.link/WWW-Right-Bottom-iOS?utm_source={&amp;utm_medium={" collected="1" class="exclick"><i></i></a>
+					<a href="https://banggood.app.link/WWW-Right-Bottom-Android?utm_source={&amp;utm_medium={" class="android exclick" collected="1"><i></i></a>
+				</p>
+			</div>
+			<!--<div class="mobilebox_item mobilebox_item_site">-->
+				<!--<div class="code"></div>-->
+				<!--<p style="font-size: 14px;">Visit Our Mobile Site</p>-->
+			<!--</div>-->
+		</div>
+	</div>
+	<!--end 2016-09-06 app下载引导 top: phone图标修改-->
+	<span class="toggle_button hide" style="display: none;">
+		<i></i>
+	</span>
+	<div class="totop_button" style="display: none;">
+		<span class="arrow_b"><i><i></i></i></span>
+	</div>
+</div>  <div class="payment_tips_item creditcard_item" style="top: 1626px; left: auto; right: 351.5px;display: none;">
+	<div class="box">
+		<i class="arrow_b" style="left:70px; right:auto;"><i><i></i></i></i>
+		<div class="information_bar">
+			<dl>
+				<dt>Account Number(PAN)</dt>
+				<dd>
+					<span class="inputbox"><input class="phone" name="cpf_pan" placeholder="Please enter 10 characters" msg="Please Input PAN!" format_error="Invalid PAN!" type="text"></span>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div> <div class="payment_tips_item dlocal_netbanking_in_item" style="top: 1626px; left: auto; right: 351.5px;display: none;">
+	<div class="box">
+		<i class="arrow_b" style="left:70px; right:auto;"><i><i></i></i></i>
+		<div class="information_bar">
+			<dl>
+				<dt>Account Number(PAN)</dt>
+				<dd>
+					<span class="inputbox"><input class="phone" name="cpf_pan" placeholder="Please enter 10 characters" msg="Please Input PAN!" format_error="Invalid PAN!" type="text"></span>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div> <div class="payment_tips_item dlocal_upi_in_item" style="top: 1626px; left: auto; right: 351.5px;display: none;">
+	<div class="box">
+		<i class="arrow_b" style="left:70px; right:auto;"><i><i></i></i></i>
+		<div class="information_bar">
+			<dl>
+				<dt>Account Number(PAN)</dt>
+				<dd>
+					<span class="inputbox"><input class="phone" name="cpf_pan" placeholder="Please enter 10 characters" msg="Please Input PAN!" format_error="Invalid PAN!" type="text"></span>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div> <div class="newcart_creditcard_agree_dialog" style="display:none;">
+    <div class="modal_ship newcart_creditcard_dialog_content">
+        <div class="modal_ship_con">
+            <a href="javascript:;" class="newcart_creditcard_dialog_close" onclick="modal_remove();"></a>
+            <h2 class="newcart_creditcard_dialog_title">Terms and Conditions for the use of Dlocal Direct</h2>
+            <div class="newcart_creditcard_dialog_con">
+                <p>We are Dlocal LLP (“we”, “us” or “Dlocal”), and these Term &amp; Conditions (“Agreement”) is a contract between you (“you”, the “user”) and governs your use of Dlocal Direct Services.</p>
+                <p>By using our services, you confirm that you accept these Agreement and that you agree to comply with them. If you do not agree to these Terms, you must not use our Services. Please note that you agree to be bound by these Terms and the other documents expressly referred to in it, from the time that you register to use the Services up until the time your Account is terminated.</p>
+                <p>You should print a copy of these Terms or save them to your computer for future reference.</p>
+                <p>We amend these Terms from time to time. Every time you wish to use our Services, please check these Terms to ensure you understand the terms which will apply at that time. These Terms were most recently updated on December 2017.</p>
+                <dl>
+                    <dt>1.1.Definition</dt>
+                    <dd>"Communications" means any Account or transaction information that PayPal provides to you, including: any Policies you agree to, including updates to these Policies; annual disclosure; transaction receipts or confirmations; Account history statements; and tax statements we are required to make available to you.</dd>
+                    <dd>"Dlocal Direct Service" means the payment processing solution which enables users to pay for the purchase of goods or services: (i) directly from accounts held in selected Bank institutions; (ii) through cash payments; (iv) through credit or debit Cards; or (v) through other payment methods offered by the Processor;</dd>
+                    <dd>"Information" means any Account information that you provide to us, including but not limited to personal information, financial information, or other information related to you or your business.</dd>
+                    <dd>"Policy" or "Policies" means any Policy or other agreement between you and Dlocal that you entered in connection with your use of the Dlocal Direct Services.</dd>
+                </dl>
+                <dl>
+                    <dt>2.Usage of Dlocal Payment Services </dt>
+                    <dd>2.1.By using Dlocal Direct, you will be able to purchase goods and or services using online payments methods. </dd>
+                    <dd>2.2.You shall only use the Services for lawful purposes. You shall not use the Services to receive or transmit material that is obscene, harassing, and defamatory, in breach of confidentiality or violation of any Intellectual Property Rights.</dd>
+                    <dd>
+                        2.3.Without prejudice to the right of initiating legal proceedings or reporting the fact to the relevant authorities, in the event that we have reasons to believe that you are making any illegal and/or unauthorised use of the Services, we reserve the right to restrict your access. Illegal and/or unauthorised use of the Services includes but is not limited to:
+                        <ol>
+                            <li>2.3.1.submitting false, inappropriate or inaccurate account details or personal data to us;</li>
+                            <li>2.3.2.engaging in any illegal and/or fraudulent activity;</li>
+                            <li>2.3.3.acting in a manner that is detrimental to the conduct of our business or which may result in legal liability for you, us or a third party; and</li>
+                            <li>2.3.4.providing, creating or disseminating computer viruses.</li>
+                        </ol>
+                    </dd>
+                    <dd>2.4.Dlocal will operate the Website with the reasonable skill and care of an online service provider based on the relevant industry standard.</dd>
+                    <dd>2.5.Dlocal will use its reasonable endeavours to maintain the operation of the Website and the Services. Whenever it is necessary to temporarily suspend the Services for operational or other reasons, Dlocal will use its reasonable endeavours to restore the Website and re-establish the provision of the Services.</dd>
+                    <dd>2.6.The user acknowledges and agrees that any payment processed via the Services may be subject to limits and conditions imposed by the applicable legislation and any regulation authority, and that Dlocal reserves the right to restrict the maximum amount of any transaction processed by Dlocal accordingly. </dd>
+                    <dd>2.7.Dlocal reserves the right to refuse the process transactions through the Services where such transactions are not complaint with the applicable legislation, any regulation authority codes of practice or Dlocal’s policies or operations standards.</dd>
+                </dl>
+                <dl>
+                    <dt>3.Intellectual property rights</dt>
+                    <dd>3.1.The Intellectual Property Rights on Intellectual Property related to the provision of Services and the Website, its functionality and appearance, are either owned by or licensed to Dlocal.</dd>
+                    <dd>
+                        3.2.You are expressly prohibited from:
+                        <ol>
+                            <li>3.2.1.reproducing, copying, sharing, editing, transmitting, uploading, modifying,  altering, incorporating into any other materials, removing, commercialising or using any Intellectual Property related to the provision of Services and the Website, its functionality and appearance;</li>
+                            <li>3.2.2.Doing anything which may be seen to take unfair advantage of the reputation and goodwill of the Website the Services and/or Dlocal’s business in general; and</li>
+                            <li>3.2.3.Doing anything that could be considered an infringement of the Intellectual Property Rights owned and/or licensed to Dlocal without first obtaining the written permission of the owner of the Intellectual Property.</li>
+                        </ol>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>4.How we use your personal information</dt>
+                    <dd>4.1.For the purpose of the Data Protection Act 1998 (the “Act”), we process personal data as a data controller and our registered address is 4 King’s Bench Walk, Temple, London, EC4Y 7DL, United Kingdom.</dd>
+                    <dd>4.2.This clause sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</dd>
+                    <dd>
+                        4.3.For the purposes of this clause, your personal data (“User’s Information”) may be:
+                        <ol>
+                            <li>4.3.1.information you give to us: this includes, without limitation, your name, address, email address and phone number, financial and credit card information, personal description, proof of your identity or address, </li>
+                            <li>4.3.2.Information we collect about you: this includes, without limitation, any information we collect about you related to your usage of the Website and the Services, including information on the payments made by you through Dlocal Direct, and the nature of the services and products purchased; and</li>
+                            <li>4.3.3.Information we receive from other sources: this this includes, without limitation, information we receive about you if you use any of the other websites we operate or the other services we provide, or information we receive from third parties (including, for example, business partners, sub-contractors, advertising networks, analytics providers, search information providers, credit agencies or other agencies).</li>
+                        </ol>
+                    </dd>
+                    <dd>
+                        4.4.We may use User’s Information in the following ways:
+                        <ol>
+                            <li>4.4.1.to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;</li>
+                            <li>4.4.2.to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;</li>
+                            <li>4.4.3.to contact you for your views on our services and to notify you occasionally about important changes or developments to our Website or to our Services;</li>
+                            <li>4.4.4.to manage our Website and Services, for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</li>
+                            <li>4.4.5.to improve our Website, Services and any services and products provided by us; </li>
+                            <li>4.4.6.as part of our efforts to keep our Website and the Services safe and secure;</li>
+                            <li>4.4.7.to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;</li>
+                            <li>4.4.8.to make suggestions and recommendations to you and other users about goods or services that may interest you or them;</li>
+                            <li>4.4.9.to maintain and develop our commercial relationship with you; and</li>
+                            <li>4.4.10.to evaluate any financial risks, verify any risks of money laundering, prevent fraud and make any reports that we are required to make by the applicable law.</li>
+                        </ol>
+                    </dd>
+                    <dd>4.5.We do not sell, rent, or otherwise provide User’s Information to third parties, except where (a) we obtain your consent; (b) it is necessary to provide you with our Services; or (c) we are required or authorised by law; </dd>
+                    <dd>4.6.The User’s Information may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our service providers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your User’s Information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that the User’s Information is treated securely and in accordance with this clause. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology.</dd>
+                    <dd>4.7.The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a reasonable fee to meet our costs in providing you with details of the information we hold about you.</dd>
+                </dl>
+                <dl>
+                    <dt>5.Certain Required Information</dt>
+                    <dd>Since we are obliged to use Regulated Entities to transfer funds abroad, and in order to comply with Master Direction No. 81/14.01.001/2015-16 prescribed by the Reserve Bank of India on February 25, 2016 as last updated on July 20, 2018, we shall require for you to provide us with your Permanent Account Number (PAN) and Aadhaar number.</dd>
+                </dl>
+                <dl>
+                    <dt>6.Authorization</dt>
+                    <dd>6.1By accepting these Agreement you authorize Dlocal to, in accordance with AP (Dir) series Circular 50 dated February 11, 2016, disclose the User’s Information to Quick Forex Limited, in its capacity as Authorised Dealer 2; with the objective of complete and submit on your behalf the Form A2 (https://rbidocs.rbi.org.in/rdocs/content/pdfs/03MD11022016_AN.pdf) for the remittance of the amounts paid by you to the Merchant selling the products online.</dd>
+                    <dd>6.2By accepting the Agreement you declare that the total amount of foreign exchange purchased from or remitted through, all sources in India during the financial year including this application is within the overall limit of the Liberalised Remittance Scheme prescribed by the Reserve Bank of India and you certify that the source of funds for making the said remittance belongs to you and the foreign exchange will not be used for prohibited purposes.</dd>
+                    <dd>
+                        6.3You authorise Dlocal to share User’s Information with:
+                        <ol>
+                            <li>6.3.1any of our employees or any member of our group or their employees, where “member of our group” means our subsidiaries, our ultimate holding company and its subsidiaries; </li>
+                            <li>6.3.2our third party consultants, (sub-)contractors, suppliers or other service providers who may access your personal information to provide services (including but not limited to IT support services) to us in order to enable us to perform any contract we enter into with you; </li>
+                            <li>6.3.3auditors or contractors or other advisers auditing, assisting with or advising on any of our business purposes; </li>
+                            <li>6.3.4analytics and search engine providers that assist us in the improvement and optimisation of our Website and the Services;</li>
+                            <li>6.3.5our successors in title, our prospective sellers or buyers of our business; </li>
+                            <li>6.3.6government bodies and law enforcement agencies and in response to other legal and regulatory requests; </li>
+                            <li>6.3.7any third party where such disclosure is required in order to enforce or apply any contract we enter into with you; </li>
+                            <li>6.3.8any third party for the purposes of protecting the rights, property, or safety of our company, our customers, or others (including, without limitation, you). This includes exchanging information with other companies and organisations for the purposes of verifying your personal identification or address, fraud protection, anti-money laundering measures and credit risk reduction; </li>
+                        </ol>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>7.Our right to vary these terms</dt>
+                    <dd>7.1.We may revise these Terms from time to time. Every time you use our Services, the Terms in force at that time will apply to the provision of the Services to you.</dd>
+                    <dd>7.2.We reserve the right to make changes to the Website and the Services from time to time without any prior notice to you provided that such changes have no material adverse effect on you.</dd>
+                </dl>
+                <dl>
+                    <dt>8.Liability and Indemnification</dt>
+                    <dd>Limitations of Liability.&nbsp;In no event shall we, our parent, subsidiaries and affiliates, our officers, directors, agents, employees or suppliers be liable for lost profits or any special, incidental or consequential damages (including without limitation damages for loss of data or loss of business) arising out of or in connection with our website, Dlocal Direct services, or this agreement (however arising, including negligence) unless and to the extent prohibited by law our liability, and the liability of our parent, subsidiaries and affiliates, our officers, directors, agents, joint ventures, employees and suppliers, to you or any third parties in any circumstance is limited to the actual amount of direct damages.</dd>
+                </dl>
+                <dl>
+                    <dt>9.Communications between us</dt>
+                    <dd>When we refer, in these Terms, to "in writing", this will include e-mail.</dd>
+                    <dd>If you wish to contact us in writing for any reason, you can send us a pre-paid post to Dlocal LLP, 4 King´s Bench Walk, London EC4Y 7DL, England, UK or email us at legal@dlocal.com </dd>
+                    <dd>If we have to contact you or give you notice in writing, we will do so by e-mail, phone or by pre-paid post to the address, phone number or email you provide to us as in your account details.</dd>
+                    <dd>The provisions of this clause shall not apply to the service of any proceedings or other documents in any legal action.</dd>
+                </dl>
+                <dl>
+                    <dt>10.Governing law and jurisdiction</dt>
+                    <dd>These Terms are governed by and construed in accordance with the laws of United Kingdom. </dd>
+                    <dd>You and we both agree that the courts of London have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with these Terms (including non-contractual disputes or claims).</dd>
+                </dl>
+                <dl>
+                    <dt>11.Other important Terms</dt>
+                    <dd>11.1.These Terms together with the documents referred to in it, contains the entire agreement between us for your use of the Services.</dd>
+                    <dd>11.2.If any part of these Terms is held unenforceable, that part shall be enforced to the maximum extent permitted by law so as to give effect to the intent of the parties, and the remaining part of these Terms shall continue in full force and effect.</dd>
+                    <dd>11.3.These terms are between you and us. No other person shall have any rights to enforce any of its terms, whether under the Contracts (Rights of Third Parties Act) 1999 or otherwise.</dd>
+                    <dd>11.4.We may transfer our rights and obligations under these Terms to another organisation without notice to you, but this will not affect your rights or our obligations under these Terms. </dd>
+                    <dd>11.5.If we fail to insist that you perform any of your obligations under these Terms, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we do waive a default by you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you. </dd>
+                </dl>
+            </div>
+            <div class="newcart_creditcard_dialog_check"><label class="checkbox_on_active"><i></i></label>Terms and Conditions for the use of Dlocal Direct</div>
+            <div class="newcart_creditcard_dialog_btnbox">
+                <a href="javascript:;">OK</a>
+            </div>
+        </div>
+    </div>
+</div>  <div class="payment_tips_item qiwi_item" style="display: none;">
+	<div class="box">
+		<i class="arrow_b"><i><i></i></i>
+		</i>
+		<span class="mytips">Qiwi payment has a limit of 60,000 RUB. If your order is over 60,000 RUB, split items<br>into multiple orders or use another payment method.</span>
+		<div class="information_bar country">
+			<dl>
+				<dt>Select address</dt>
+				<dd class="payment_country_box">
+					<span class="text"><b>Russian Federation</b><i class="arrow_a"><i></i></i></span>
+					<div class="country_list_item">
+						<a href="javascript:;" zone="7">Russian Federation</a>
+						<a href="javascript:;" zone="9955">Georgia</a>
+						<a href="javascript:;" zone="507">Panama</a>
+						<a href="javascript:;" zone="44">Great Britain</a>
+						<a href="javascript:;" zone="992">Tajikistan</a>
+						<a href="javascript:;" zone="370">Lithuania</a>
+						<a href="javascript:;" zone="972">Israel</a>
+						<a href="javascript:;" zone="996">Kyrgyzstan</a>
+						<a href="javascript:;" zone="84">Vietnam</a>
+						<a href="javascript:;" zone="90">Turkey</a>
+						<a href="javascript:;" zone="994">Azerbaijan</a>
+						<a href="javascript:;" zone="374">Armenia</a>
+						<a href="javascript:;" zone="371">Latvia</a>
+						<a href="javascript:;" zone="91">India</a>
+						<a href="javascript:;" zone="66">Thailand</a>
+						<a href="javascript:;" zone="373">Moldova</a>
+						<a href="javascript:;" zone="1">United States</a>
+						<a href="javascript:;" zone="81">Japan</a>
+						<a href="javascript:;" zone="998">Uzbekistan</a>
+						<a href="javascript:;" zone="77">Kazakhstan</a>
+						<a href="javascript:;" zone="380">Ukraine</a>
+					</div>
+				</dd>
+			</dl>
+			<dl>
+				<dt>Telephone</dt>
+				<dd>
+					<input maxlength="3" readonly="readonly" id="qiwi_country_code1" name="qiwi_country_code" value="7" class="zone" type="text">
+					<strong>-</strong>
+					<span class="inputbox"><input maxlength="12" id="qiwi_username1" name="qiwi_username" class="phone" data-limitphone="Please enter 6 or more digits" placeholder="Enter your phone" msg="required!" type="text"></span>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div><div class="payment_tips_item boleto_item" style="top: 1626px; left: auto; right: 351.5px;display: none;">
+	<div class="box">
+		<i class="arrow_b" style="left:70px; right:auto;"><i><i></i></i></i>
+		<div class="information_bar">
+			<dl>
+				<dt>Nome Completo</dt>
+				<dd>
+					<span class="inputbox"><input id="boleto_user" class="phone" name="boleto_user" placeholder="Nome Completo" msg="required!" type="text"></span>
+				</dd>
+			</dl>
+			<dl>
+				<dt>CPF</dt>
+				<dd>
+					<span class="inputbox"><input id="boleto_cpf" class="phone " name="boleto_cpf" msg="required!" format_error="CPF Invalid!" placeholder="Informe seu number de CPF" type="text"></span>
+				</dd>
+			</dl>
+			<dl>
+				<dt></dt>
+				<dd><label id="boleto_checkout" class="boleto_checkout active">Save this information for faster checkout</label></dd>
+			</dl>
+		</div>
+	</div>
+</div>  <div class="payment_tips_item cod_item" style="display: none;">
+	<div class="box">
+		<i class="arrow_b"><i><i></i></i></i>
+        <span class="mytips">We'll send you a message including verification code to verify your phone number so that when necessary we can contact you in time.</span>
+		<div class="information_bar">
+			<dl>
+				<dd>
+					<span class="inputbox"><b class="kw"></b><input id="cod_phone" class="phone" name="cod_phone" placeholder="Phone number" msg="" type="text" maxlength="15"></span>
+                    <span class="formsubmit" onclick="SendCODCode(this);" data-msg="Send message">Send message</span>
+				</dd>
+			</dl>
+			<dl>
+				<dd>
+					<span class="inputbox"><input id="cod_phonecode" class="phone" name="cod_phonecode" placeholder="Verification code" msg="The verification code is incorrect,please try again." type="text"></span>
+                  	<span class="formsubmit comfirm" onclick="ComfirmCODCode(this);" msg="Verified successfully">Confirm</span>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<div id="cod_gray_tip" style="display:none;"></div>  <div class="payment_tips_item konbini_tips" style="display: none;">
+	<div class="box">
+		<i class="arrow_b"><i><i></i></i></i>
+		<dl data-img="/templates/black/images/bag/logo_01.jpg"></dl>
+		<p>コンビニ決済（コンビニ店頭)の支払い上限額は2,99,999円で定められております。金額が2,99,999円を超える場合、上限額1,000,000円のPay-easyをご利用ください。</p>
+	</div>
+</div> <div class="payment_tips_item paytm_tips" style="display: none;">
+	<div class="box">
+		<i class="arrow_b"><i><i></i></i></i>
+		<dl data-img="/templates/black/images/bag/logo_01.jpg"></dl>
+	</div>
+</div><script>
+  var PInData = {"line_items":[{"products_id":1352971,"product_name":"Men's Plus Size Wool Blend Double Side Wearable Thicken Coat","price":34.99,"brands":"Charmkpr","size":"l","color":"black","material":"","pattern":""}],"value":34.99,"order_quantity":1};
+  var PruductTree = ["Clothing and Apparel > Men's Clothing > Coats & Jackets > Coat"];
+  var ProductTotal = 34.99;
+  
+  var discount_language = {
+    
+    enjoy: "Enjoy a",
+    discount: "discount",
+    choose: "you choose European Railway Direct Mail",
+    mailing: "for this mailing method"
+  }
+</script>
+<script src="https://pay.google.com/gp/p/js/pay.js"></script><iframe src="https://pay.google.com/gp/p/ui/payframe?origin=https%3A%2F%2Fwww.banggood.com&amp;mid=" height="0" width="0" allowpaymentrequest="true" style="display: none; visibility: hidden;"></iframe>
+<script src="https://js.braintreegateway.com/web/3.38.1/js/client.min.js"></script><script type="text/javascript" id="">(function(b,c,a){(c[a]=c[a]||[]).push(function(){try{c.yaCounter27179360=new Ya.Metrika({id:27179360,clickmap:!0,trackLinks:!0,accurateTrackBounce:!0})}catch(f){}});var e=b.getElementsByTagName("script")[0],d=b.createElement("script");a=function(){e.parentNode.insertBefore(d,e)};d.type="text/javascript";d.async=!0;d.src=("https:"==b.location.protocol?"https:":"http:")+"//mc.yandex.ru/metrika/watch.js";"[object Opera]"==c.opera?b.addEventListener("DOMContentLoaded",a,!1):a()})(document,window,"yandex_metrika_callbacks");</script>
+<noscript><div><img src="//mc.yandex.ru/watch/27179360" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+
+
+<script type="text/javascript" id="">(function(d,b,a){(b[a]=b[a]||[]).push(function(){try{b.yaCounter35679095=new Ya.Metrika({id:35679095,clickmap:!0,trackLinks:!0,accurateTrackBounce:!0})}catch(f){}});var e=d.getElementsByTagName("script")[0],c=d.createElement("script");a=function(){e.parentNode.insertBefore(c,e)};c.type="text/javascript";c.async=!0;c.src="https://mc.yandex.ru/metrika/watch.js";"[object Opera]"==b.opera?d.addEventListener("DOMContentLoaded",a,!1):a()})(document,window,"yandex_metrika_callbacks");</script> 
+<noscript><div><img src="https://mc.yandex.ru/watch/35679095" style="position:absolute; left:-9999px;" alt=""></div></noscript> 
+<script type="text/javascript" id="">window._retag=window._retag||[];window._retag.push({code:window.admitad_tag_c_code,level:window.admitad_tag_c_level});(function(){var a="admitad-retag";if(!document.getElementById(a)){var b=document.createElement("script");b.async=!0;b.id=a;a=(new Date).getDate();b.src="https://cdn.trmit.com/static/js/retag.min.js?r\x3d"+a;a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)}})();</script><script type="text/javascript" id="">(function(e){var b="1821",d=document,c={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"};c=c[/\w+/.exec(window.location.protocol)[0]];var a=d.createElement("script");a.type="text/javascript";a.async=!0;a.src=c+"#"+b;b=d.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);a.readyState?a.onreadystatechange=function(){if("loaded"===a.readyState||"complete"===a.readyState)a.onreadystatechange=null}:a.onload=function(){try{e()}catch(f){}}})(function(){});</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","1391547797784431");fbq("track","PageView");
+setTimeout(function(){window.fb_track&&fbq(window.fb_track,window.fb_event_name,window.fb_jsonNewFB)},3E3);</script><script type="text/javascript" id="">(function(b,c,e,f,d){b[d]=b[d]||[];var g=function(){var a={ti:"5038249"};a.q=b[d];b[d]=new UET(a);b[d].push("pageLoad")};var a=c.createElement(e);a.src=f;a.async=1;a.onload=a.onreadystatechange=function(){var b=this.readyState;b&&"loaded"!==b&&"complete"!==b||(g(),a.onload=a.onreadystatechange=null)};c=c.getElementsByTagName(e)[0];c.parentNode.insertBefore(a,c)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+(function(b,c,e,f,d){b[d]=b[d]||[];var g=function(){var a={ti:"5256640"};a.q=b[d];b[d]=new UET(a);b[d].push("pageLoad")};var a=c.createElement(e);a.src=f;a.async=1;a.onload=a.onreadystatechange=function(){var b=this.readyState;b&&"loaded"!==b&&"complete"!==b||(g(),a.onload=a.onreadystatechange=null)};c=c.getElementsByTagName(e)[0];c.parentNode.insertBefore(a,c)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+<noscript><img src="//bat.bing.com/action/0?ti=5038249&amp;Ver=2" height="0" width="0" style="display:none; visibility: hidden;"></noscript>
+<noscript><img src="//bat.bing.com/action/0?ti=5256640&amp;Ver=2" height="0" width="0" style="display:none; visibility: hidden;"></noscript>
+<script type="text/javascript" id="" src="https://t.cfjump.com/tag/43831"></script><script type="text/javascript" id="">var DBMGoogle_PID=DBMGoogle_TYPE=DBMGoogle_TOTAL=DBMGoogle_CID=0,DBMGoogle={vp:document.location.href,site:document.location.host,getproductID:function(b,d){var a=/.*-p-([0-9]*)\.html/;return(a=a.exec(b))?encodeURIComponent(a[1]):0},getcategoryID:function(b,d){var a=/.*-c-([0-9]*)[-.]/;return(a=a.exec(b))?encodeURIComponent(a[1]):0},getfirstCID:function(){var b=document.querySelector('ol[class\x3d"inhere"]'),d=b.getElementsByTagName("a");b=b.getElementsByTagName("li");for(var a=[],c=0;c<d.length;c++){var e=
+d[c].innerText;a.push(e)}return 1==d.length?b[2].innerText:a[1]},init:function(){DBMGoogle_PID=this.getproductID(this.vp,this.site);DBMGoogle_CID=this.getcategoryID(this.vp,this.site);0<DBMGoogle_CID&&(DBMGoogle_TYPE="categorypage",DBMGoogle_CID=this.getfirstCID());0<DBMGoogle_PID&&(DBMGoogle_TOTAL=document.querySelector('meta[itemprop\x3d"price"]').getAttribute("content"),DBMGoogle_TYPE="productpage",DBMGoogle_CID=this.getfirstCID(),null!=document.querySelector('meta[itemprop\x3d"sku"]')&&(DBMGoogle_PID=
+document.querySelector('meta[itemprop\x3d"sku"]').getAttribute("content")))}},DBMGoogletimer=DBMGoogleCount=0;
+DBMGoogletimer=setInterval(function(){if(15!=DBMGoogleCount){if(null!=document.querySelector('ol[class\x3d"inhere"]')||null!=document.querySelector("input[name\x3d'dbm_checkout_success']")||"undefined"!=typeof _DBMPosition){DBMGoogle.init();if(0<DBMGoogle_CID.length){var b=Math.random()+"",d=1E13*b,a=document.createElement("div");a.innerHTML='\x3ciframe src\x3d"https://4827907.fls.doubleclick.net/activityi;src\x3d4827907;type\x3dinvmedia;cat\x3dn19qucqk;u1\x3d'+decodeURI(DBMGoogle_CID)+";u2\x3d"+
+DBMGoogle_PID+";u3\x3d"+DBMGoogle_TYPE+";u4\x3d"+DBMGoogle_TOTAL+";dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d"+d+'?" width\x3d"1" height\x3d"1" frameborder\x3d"0" style\x3d"display:none"\x3e\x3c/iframe\x3e';document.body.appendChild(a)}else for(b=0;b<document.getElementsByName("dbm_checkout_success").length;b++){var c=document.getElementsByName("dbm_checkout_success")[b],e=0;a=c.parentNode.getElementsByTagName("li");"undefined"!=typeof checkout_success_paypal&&(a=c.parentNode.getElementsByTagName("ul"));
+for(c=0;c<a.length;c++){var g=a[c].querySelector("input[name\x3d'ItemTotalPrice']").value;e=Number(e)+Number(g)}c=document.getElementsByName("dbm_checkout_success")[b].value;a=document.createElement("div");a.innerHTML='\x3ciframe src\x3d"https://4827907.fls.doubleclick.net/activityi;src\x3d4827907;type\x3dsales;cat\x3dlwukll2v;qty\x3d1;cost\x3d'+e+";u1\x3d"+DBMGoogle_CID+";u2\x3d"+DBMGoogle_PID+";u3\x3dpaymentpage;u4\x3d"+DBMGoogle_TOTAL+";dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d"+
+c+'?" width\x3d"1" height\x3d"1" frameborder\x3d"0" style\x3d"display:none"\x3e\x3c/iframe\x3e';document.body.appendChild(a)}if("undefined"!=typeof _DBMPosition)if(DBMGoogle_CID=DBMGoogle_TYPE=_DBMPosition,"shoppingcart"==_DBMPosition){var f=shoppingcartCount=0;f=setInterval(function(){if(10!=shoppingcartCount){if("undefined"!=typeof DBMCARTStatus&&1<DBMCARTStatus){var a=document.createElement("div");a.innerHTML='\x3ciframe src\x3d"https://4827907.fls.doubleclick.net/activityi;src\x3d4827907;type\x3dinvmedia;cat\x3dn19qucqk;u1\x3d'+
+decodeURI(DBMGoogle_CID)+";u2\x3d"+window.localStorage.getItem("_DBMLastProductID")+";u3\x3d"+DBMGoogle_TYPE+";u4\x3d"+window.localStorage.getItem("_DBMLastProductPRICE")+";dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d"+d+'?" width\x3d"1" height\x3d"1" frameborder\x3d"0" style\x3d"display:none"\x3e\x3c/iframe\x3e';document.body.appendChild(a);clearInterval(f)}shoppingcartCount++}},2E3)}else a=document.createElement("div"),a.innerHTML='\x3ciframe src\x3d"https://4827907.fls.doubleclick.net/activityi;src\x3d4827907;type\x3dinvmedia;cat\x3dn19qucqk;u1\x3d'+
+decodeURI(DBMGoogle_CID)+";u2\x3d"+DBMGoogle_PID+";u3\x3d"+DBMGoogle_TYPE+";u4\x3d"+DBMGoogle_TOTAL+";dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d"+d+'?" width\x3d"1" height\x3d"1" frameborder\x3d"0" style\x3d"display:none"\x3e\x3c/iframe\x3e',document.body.appendChild(a);clearInterval(DBMGoogletimer)}DBMGoogleCount++}},2E3);</script><script type="text/javascript" id="">var specialKeywork={_appurl:"",isdirect:!1,keywords:[],filter:["0","none","null","-"],args:["utm_source","utm_medium","utm_campaign","utm_content","utm_design"],type:[{key:["aip","click_id","prx","ref"]},{key:["admitad_uid"]},{key:["click_id","pr"]},{key:["p"]},{key:["AID","PID","SID","source"]},{key:["aff_campaign","aff_key"]},{key:["oid","rqid"]},{key:["aff_key"]}],_GetStr:function(b,c){var e=new RegExp(".*(?:^|\x26|[?]|[/])"+b+"\x3d([^\x26]*).*$");return(e=e.exec(c))?encodeURIComponent(e[1]):""},
+_SetCookiess:function(b,c){var e=new Date;e.setTime(e.getTime()+2592E6);document.cookie=b+"\x3d"+escape(c)+";expires\x3d"+e.toGMTString()},_GetCookie:function(b){b+="\x3d";for(var c=b.length,e=document.cookie.length,d=0;d<e;){var a=d+c;if(document.cookie.substring(d,a)==b)return this._GetCookieVal(a);d=document.cookie.indexOf(" ",d)+1;if(0==d)break}return null},_GetCookieVal:function(b){var c=document.cookie.indexOf(";",b);-1==c&&(c=document.cookie.length);return unescape(document.cookie.substring(b,
+c))},_GetURLParam:function(b,c){var e=[],d=b.indexOf("?");if(-1!=d){b=b.substr(d+1);b=b.replace(/\?/g,"");d=b.split("\x26");for(var a=0;a<d.length;a++){var g=d[a].indexOf("\x3d");0<g&&(g=d[a].substring(0,g),e.push(g))}return e}},_CheckISArray:function(b,c){if("object"==typeof b){b.sort();c.sort();for(var e=0,d=0;d<b.length;d++)for(var a=0;a<c.length;a++)b[d]==c[a]&&e++;if(e==c.length)return!0}},_GetPid:function(b){var c=/.*-p-([0-9]*)\.html/;return(b=c.exec(b))?encodeURIComponent(b[1]):0},init:function(){if(null!=
+this._GetCookie("__bgqueue"))var b=this._GetCookie("__bgqueue").split("|");else return!1;for(var c="",e=this._GetURLParam(window.location.href,0),d=[],a=0;a<this.type.length;a++){var g=this.type[a].key;if(this._CheckISArray(e,g)){d=d.concat(g);for(var f=0;f<g.length;f++)c=c+g[f]+"\x3d"+this._GetStr(g[f],window.location.href)+"\x26";this._SetCookiess("__appdownload",c)}}for(a=1;a<b.length&&(-1==this.filter.indexOf(b[a])?(1==a&&"direct"==b[a]?(this.keywords.push(""),this.isdirect=!0):this.keywords.push(b[a]),
+this.isdirect||(this._appurl=this._appurl+this.args[a-1]+"\x3d"+b[a]+"\x26")):this.keywords.push(""),5!=a);a++);c=null!=this._GetCookie("__appdownload")?this._GetCookie("__appdownload"):"";if(null!=document.querySelector('dd[class\x3d"appdownload"]')||null!=document.getElementById("checkoutappdownload")){b=[];null!=document.querySelector('dd[class\x3d"appdownload"]')&&(a=document.querySelector('dd[class\x3d"appdownload"]'),b.push(a));null!=document.getElementById("fixedmobilebox_item")&&(a=document.getElementById("fixedmobilebox_item"),
+b.push(a));null!=document.getElementById("top_guide_item")&&(a=document.getElementById("top_guide_item"),b.push(a));null!=document.getElementById("item0504")&&(a=document.getElementById("item0504"),b.push(a));null!=document.getElementById("productdetaildownload")&&(a=document.getElementById("productdetaildownload"),b.push(a));null!=document.getElementById("lotteryappdownload")&&(a=document.getElementById("lotteryappdownload"),b.push(a));null!=document.getElementById("lotterysuccessappdownload")&&
+(a=document.getElementById("lotterysuccessappdownload"),b.push(a));null!=document.getElementById("checkoutappdownload")&&(a=document.getElementById("checkoutappdownload"),b.push(a));a=0;for(e=b.length;a<e;a++)for(f=0;f<b[a].getElementsByTagName("a").length;f++)d=b[a].getElementsByTagName("a")[f].getAttribute("href"),d=d.split("?"),"productdetaildownload"==b[a].id?b[a].getElementsByTagName("a")[f].setAttribute("href",d[0]+"?$deeplink_path\x3dbanggood://prod-"+this._GetPid(window.location.href)+"\x26"+
+this._appurl+c):b[a].getElementsByTagName("a")[f].setAttribute("href",d[0]+"?"+this._appurl+c);if(null!=document.getElementById("mobiledownloadcode")||null!=document.getElementById("topguidedownloadcode")||null!=document.getElementById("item0502"))for(b=[],null!=document.getElementById("mobiledownloadcode")&&(a=document.getElementById("mobiledownloadcode"),b.push(a)),null!=document.getElementById("topguidedownloadcode")&&(a=document.getElementById("topguidedownloadcode"),b.push(a)),null!=document.getElementById("item0502")&&
+(a=document.getElementById("item0502"),b.push(a)),a=0;a<b.length;a++)f=b[a].src,f=f.split("?"),b[a].src=f[0]+"?"+this._appurl+c}}},APPDownloadLINKtimer=APPDownloadCount=productsqrcodeTimer=productsqrcodeCount=0;APPDownloadLINKtimer=setInterval(function(){if(15!=APPDownloadCount){if(null!=document.querySelector('dd[class\x3d"appdownload"]')||null!=document.getElementById("checkoutappdownload"))specialKeywork.init(),clearInterval(APPDownloadLINKtimer);APPDownloadCount++}},2E3);
+productsqrcodeTimer=setInterval(function(){if(10!=productsqrcodeCount){if(null!=document.getElementById("productsqrcode")){var b=document.getElementById("productsqrcode"),c=b.src;var e=null!=specialKeywork._GetCookie("__appdownload")?specialKeywork._GetCookie("__appdownload"):"";b.src=c+"\x26"+specialKeywork._appurl+e;clearInterval(productsqrcodeTimer)}productsqrcodeCount++}},3E3);</script>
+<script type="text/javascript" id="">!function(b){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var a=window.pintrk;a.queue=[];a.version="3.0";a=document.createElement("script");a.async=!0;a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}("https://s.pinimg.com/ct/core.js");window.sessionStorage.getItem("eem")?pintrk("load","2614894357828",{em:window.sessionStorage.getItem("eem")}):pintrk("load","2614894357828");pintrk("page");</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614894357828&amp;pd[em]=&amp;noscript=1">
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614894357828&amp;event=AddToCart&amp;noscript=1">
+</noscript>
+
+<script type="text/javascript" id="">!function(b){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var a=window.pintrk;a.queue=[];a.version="3.0";a=document.createElement("script");a.async=!0;a.src=b;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}("https://s.pinimg.com/ct/core.js");window.sessionStorage.getItem("eem")?pintrk("load","2614296336958",{em:window.sessionStorage.getItem("eem")}):pintrk("load","2614296336958");pintrk("page");</script>
+
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614296336958&amp;pd[em]=&amp;noscript=1">
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614296336958&amp;event=AddToCart&amp;noscript=1">
+</noscript>
+
+
+<script type="text/javascript" id="">var PinterestTrackItem={_Url:"https://ct.pinterest.com/v3/?tid\x3d2614894357828\x26pd[em]\x3d\x26noscript\x3d1",_Pathname:document.location.pathname,_Site:document.location.href,_status:0,_GetPid:function(a){var c=/.*-p-([0-9]*)\.html/;return(a=c.exec(a))?encodeURIComponent(a[1]):0},_GetCookie:function(a){a+="\x3d";for(var c=a.length,f=document.cookie.length,b=0;b<f;){var d=b+c;if(document.cookie.substring(b,d)==a)return this._GetCookieVal(d);b=document.cookie.indexOf(" ",b)+1;if(0==b)break}return null},
+_GetCookieVal:function(a){var c=document.cookie.indexOf(";",a);-1==c&&(c=document.cookie.length);return unescape(document.cookie.substring(a,c))},_GetPinterestKeyWords:function(a){var c=-1<a.indexOf("/buy/")?/\/buy\/([^/]*)[.]/:/\/search\/([^/]*)[.]/;return(a=c.exec(a))?a[1]:""},_CheckCategoryPage:function(){var a=/.*-c-([0-9]*)[-.]/;return(a=a.exec(this._Site))?encodeURIComponent(a[1]):0},_CheckThemePage:function(){var a=/.*-t-([0-9]*)[-.]/;return(a=a.exec(this._Site))?encodeURIComponent(a[1]):0},
+_GetGoodsClass:function(a,c){if(a.getElementsByClassName)return a.getElementsByClassName(c);for(var f=[],b=new RegExp(" "+c+" ","i"),d=a.getElementsByTagName("*"),e=0;e<d.length;e++)b.test(" "+d[e].className+" ")&&f.push(d[e]);return f},_GetTopFiveGoodsList:function(){var a=this._GetGoodsClass(document,"goodlist_1")[0],c=[];document.getElementsByClassName("category_new_list").length&&(a=this._GetGoodsClass(document,"category_new_list")[0].children[0]);if(void 0!=a){if(0==a.getElementsByTagName("li").length)return!1;
+0==a.getElementsByTagName("li")[0].getElementsByClassName("price").length&&(a=this._GetGoodsClass(document,"goodlist_1")[1]);a=a.getElementsByTagName("li");var f=a.length;if(0==f)return!1;5<f&&(f=5);for(var b=this._GetProductCategory(),d=0;d<f;d++){var e=a[d].getElementsByTagName("img")[0].getAttribute("alt"),g=this._GetPid(a[d].getElementsByTagName("a")[0].getAttribute("href")),h=a[d].getElementsByClassName("price")[0].getAttribute("oriprice");null==e&&(e=a[d].getElementsByTagName("a")[0].getAttribute("title"));
+null==e&&(e=a[d].getElementsByTagName("a")[1].innerText);e||(e=a[d].getElementsByTagName("a")[2].innerText);g||(g=this._GetPid(a[d].getElementsByTagName("a")[1].getAttribute("href")));c.push({product_name:e,product_id:g,product_price:h,product_category:b})}}return c},_GetProductCategory:function(){var a=[];if(null!=document.querySelector("ol[class\x3d'inhere']"))for(var c=0;c<document.querySelector("ol[class\x3d'inhere']").getElementsByTagName("a").length;c++){var f=document.querySelector("ol[class\x3d'inhere']").getElementsByTagName("a")[c].innerText;
+a.push(f)}0<this._CheckCategoryPage()&&(c=document.querySelector("ol[class\x3d'inhere']").getElementsByTagName("li"),c=c[c.length-1].innerText,a.push(c));if(null!=document.querySelector("ol[class\x3d'breadcrumb']"))for(c=0;c<document.querySelector("ol[class\x3d'breadcrumb']").getElementsByTagName("a").length;c++)f=document.querySelector("ol[class\x3d'breadcrumb']").getElementsByTagName("a")[c].innerText,a.push(f);a.shift();0==this._CheckCategoryPage()&&0==this._GetPid(this._Site)&&(a=[]);return a.toString().replace(/,/g,
+" \x3e ")},_GetCartData:function(a,c,f){if(window.PInData){for(var b=window.PInData,d=[],e=0;e<b.line_items.length;e++)d.push({product_name:b.line_items[e].product_name,product_id:b.line_items[e].products_id,product_price:b.line_items[e].price,product_brand:b.line_items[e].brands,product_size:b.line_items[e].size,product_color:b.line_items[e].color,product_material:b.line_items[e].material,product_pattern:b.line_items[e].pattern});this.repeatLoad("2614894357828");pintrk("track",a,{order_quantity:b.order_quantity,
+value:parseFloat(b.value),currency:c,lead_type:f,line_items:d});this.repeatLoad("2614296336958");pintrk("track",a,{order_quantity:b.order_quantity,value:parseFloat(b.value),currency:c,lead_type:f,line_items:d})}},repeatLoad:function(a){window.sessionStorage.getItem("eem")?pintrk("load",a,{em:window.sessionStorage.getItem("eem")}):pintrk("load",a)},_Init:function(){var a=this._GetCookie("currency"),c=this._GetCookie("__bgqueue")&&this._GetCookie("__bgqueue").split("|")[1];null!=document.querySelector("body[class\x3d'bg_index_home']")&&
+(this._status=1,this.repeatLoad("2614894357828"),pintrk("track","pagevisit",{lead_type:c}),this.repeatLoad("2614296336958"),pintrk("track","pagevisit",{lead_type:c}));"undefined"!=typeof user_reg_success&&(this._status=1,this.repeatLoad("2614894357828"),pintrk("track","signup",{lead_type:c}),this.repeatLoad("2614296336958"),pintrk("track","signup",{lead_type:c}));if(-1<this._Pathname.indexOf("/buy/")||-1<this._Pathname.indexOf("/search/")){this._status=1;for(var f=this._GetPinterestKeyWords(this._Pathname.replace(/-/g,
+" ")),b=this._GetTopFiveGoodsList(),d=0;d<b.length;d++)delete b[d].product_category;this.repeatLoad("2614894357828");pintrk("track","search",{currency:a,lead_type:c,search_query:f,line_items:b});this.repeatLoad("2614296336958");pintrk("track","search",{currency:a,lead_type:c,search_query:f,line_items:b})}0<this._CheckCategoryPage(this._Site)&&(this._status=1,b=this._GetTopFiveGoodsList(),0<b.length&&(this.repeatLoad("2614894357828"),pintrk("track","viewcategory",{currency:a,lead_type:c,line_items:b}),
+this.repeatLoad("2614296336958"),pintrk("track","viewcategory",{currency:a,lead_type:c,line_items:b})));if(0<this._Site.indexOf("new-arrivals")){this._status=1;b=this._GetTopFiveGoodsList();for(d=0;d<b.length;d++)delete b[d].product_category;0<b.length&&(this.repeatLoad("2614894357828"),pintrk("track","viewcategory",{currency:a,lead_type:c,line_items:b}),this.repeatLoad("2614296336958"),pintrk("track","viewcategory",{currency:a,lead_type:c,line_items:b}))}if(0<this._Site.indexOf("preorder")){this._status=
+1;b=this._GetTopFiveGoodsList();for(d=0;d<b.length;d++)delete b[d].product_category;0<b.length&&(this.repeatLoad("2614894357828"),pintrk("track","viewcategory",{currency:a,lead_type:c,line_items:b}),this.repeatLoad("2614296336958"),pintrk("track","viewcategory",{currency:a,lead_type:c,line_items:b}))}if(0<this._CheckThemePage(this._Site)){this._status=1;b=this._GetTopFiveGoodsList();for(d=0;d<b.length;d++)delete b[d].product_category;0<b.length&&(this.repeatLoad("2614894357828"),pintrk("track","viewcategory",
+{currency:a,lead_type:c,line_items:b}),this.repeatLoad("2614296336958"),pintrk("track","viewcategory",{currency:a,lead_type:c,line_items:b}))}0<this._GetPid(this._Site)&&(this._status=1,b=[],window.fb_jsonNewFB&&b.push({product_name:window.fb_jsonNewFB.content_name,product_id:this._GetPid(this._Site),product_price:window.fb_jsonNewFB.value,product_quantity:1,product_category:window.fb_jsonNewFB.content_category,product_brand:window.fb_jsonNewFB.brand,product_size:window.fb_jsonNewFB.size,product_color:window.fb_jsonNewFB.color,
+product_material:window.fb_jsonNewFB.material,product_pattern:window.fb_jsonNewFB.pattern}),this.repeatLoad("2614894357828"),pintrk("track","pagevisit",{currency:a,lead_type:c,line_items:b}),this.repeatLoad("2614296336958"),pintrk("track","pagevisit",{currency:a,lead_type:c,line_items:b}));null!=document.getElementById("step_one_main")&&(this._status=1,this._GetCartData("addtocart",a,c));null!=document.getElementById("step_two_main")&&(this._status=1,this._GetCartData("addtocart",a,c));null!=document.querySelector("input[name\x3d'dbm_checkout_success']")&&
+(this._status=1,this._GetCartData("checkout",a,c));0==this._status&&(this.repeatLoad("2614894357828"),pintrk("track","pagevisit"),this.repeatLoad("2614296336958"),pintrk("track","pagevisit"))}};setTimeout(function(){PinterestTrackItem._Init()},3E3);</script>
+<script type="text/javascript" id="">var yahooDPAItem={Site:document.location.href,Status:0,GetPid:function(a){var g=/.*-(wp|p)(-Usa|-Eu)?-([0-9]*)\.html/;return(a=g.exec(a))?encodeURIComponent(a[3]):0},CheckCategoryPage:function(){var a=/.*-c-([0-9]*)[-.html]/;return(a=a.exec(this.Site))?encodeURIComponent(a[1]):0},IsHidden:function(a){return null===a.offsetParent},Init:function(){window.dotq=window.dotq||[];var a={projectId:"10000",properties:{pixelId:"10012860",qstrings:{et:"custom",ea:"",product_id:""}}};0<this.GetPid(this.Site)&&
+(this.Status=1,a.properties.qstrings.ea="ViewProduct",a.properties.qstrings.product_id=this.GetPid(this.Site),window.dotq.push(a));if(null!=document.getElementById("step_one_main")){this.Status=1;for(var g=document.getElementsByClassName("newcart_main"),b=[],c=0;c<g.length;c++){var h=g[c].getElementsByTagName("ul");if(0<h.length)for(var k=0;k<h.length;k++){var d=h[k].getAttribute("cart_id");d=d.split("_")[0];b.push(d)}}b=b.length?b.join(","):"N/A";a.properties.qstrings.ea="AddToCart";a.properties.qstrings.product_id=
+b;window.dotq.push(a)}if(null!=document.querySelector("input[name\x3d'dbm_checkout_success']")){this.Status=1;b=[];for(c=0;c<document.getElementsByName("ItemProductID").length;c++)d=document.getElementsByName("ItemProductID")[c].value,b.push(d);b=b.join(",");a.properties.qstrings.ea="Purchase";a.properties.qstrings.product_id=b;window.dotq.push(a)}window.YAHOO||function(a,b,c,d,e){a[e]=a[e]||[];a[e].push({projectId:"10000",properties:{pixelId:"10012860"}});var f=b.createElement(c);f.src=d;f.async=
+!0;f.onload=f.onreadystatechange=function(){var b=this.readyState,c=a[e];if(!b||"complete"==b||"loaded"==b)try{var d=YAHOO.ywa.I13N.fireBeacon;a[e]=[];a[e].push=function(a){d([a])};d(c)}catch(l){}};b=b.getElementsByTagName(c)[0];c=b.parentNode;c.insertBefore(f,b)}(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq")}};setTimeout(function(){yahooDPAItem.Init()},3E3);</script><script type="text/javascript" id="" src="//wcs.naver.net/wcslog.js"></script><script type="text/javascript" id="">var BG_AWIN={getCookie:function(a){a+="\x3d";for(var b=document.cookie.split(";"),d=0;d<b.length;d++){for(var c=b[d];" "==c.charAt(0);)c=c.substring(1);if(-1!=c.indexOf(a))return c.substring(a.length,c.length)}return""},getKey:function(){var a=this.getCookie("__bgqueue").match(/awin_(\w+)?/);if(a)return a[1].toLocaleLowerCase()},getUrlId:function(){var a={au:"15388",de:"15389",uk:"15390",nl:"15391",us:"15392"};return a[this.getKey()]},create:function(){var a=this.getUrlId();if(a){var b=document.createElement("script");
+b.src="https://www.dwin1.com/"+a+".js";b.async=!0;document.body.appendChild(b)}}};BG_AWIN.create();</script><script type="text/javascript" id="">(function(){function f(a){a+="\x3d";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var d=b[c];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null}function g(a){document.cookie=a+"\x3d"+a+";expires\x3dThu, 01 Jan 1970 00:00:00 GMT; path\x3d/"}function e(a){return decodeURIComponent(((new RegExp("[?|\x26]"+a+"\x3d([^\x26;]+?)(\x26|#|;|$)")).exec(location.search)||[,""])[1].replace(/\+/g,"%20"))||null}function h(a){var b=new Date;
+b.setTime(b.getTime()+864E5*a);b.toUTCString();return b}var c="";null!=e("utm_source")&&(c=e("utm_source"));"omg"==c.toLowerCase()?document.cookie=c+"\x3d"+c+";expires\x3d "+h(30)+"; path\x3d/":"omg"!=c.toLowerCase()&&""!=c.toLowerCase()&&null!=f("omg")&&g("omg");var k=1260430,l=32803,m=escape(window.parent.location.href);!function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="//track.omguk.com/e/qs/?action\x3dContent\x26MID\x3d"+k+"\x26PID\x3d"+l+"\x26ref\x3d"+
+m;var b=document.getElementsByTagName("body")[0];b?b.appendChild(a,b):(b=document.getElementsByTagName("script")[0],b.parentNode.insertBefore(a,b))}()})();</script><script type="text/javascript" async="" src="//track.omguk.com/e/qs/?action=Content&amp;MID=1260430&amp;PID=32803&amp;ref=https%3A//www.banggood.com/shopping_cart.html"></script>
+<script type="text/javascript" id="">var shareasaleSSCID=shareasaleGetParameterByName("sscid");function shareasaleSetCookie(a,b,c,d,e){if(a&&b){var f;d=d?"; path\x3d"+d:"";e=e?"; domain\x3d"+e:"";var g="";c&&((f=new Date).setTime(f.getTime()+c),g="; expires\x3d"+f.toUTCString());document.cookie=a+"\x3d"+b+g+d+e}}
+function shareasaleGetParameterByName(a,b){b||(b=window.location.href);a=a.replace(/[\[\]]/g,"\\$\x26");var c=(new RegExp("[?\x26]"+a+"(\x3d([^\x26#]*)|\x26|#|$)")).exec(b);return c?c[2]?decodeURIComponent(c[2].replace(/\+/g," ")):"":null}shareasaleSSCID&&shareasaleSetCookie("shareasaleSSCID",shareasaleSSCID,94670778E4,"/");</script><script type="text/javascript" id="" src="//static.accesstrade.vn/js/trackingtag/tracking.min.js "></script><script type="text/javascript" id="">var RtbHouseItem={Site:document.location.href,Status:1,_Pathname:document.location.pathname,GetPid:function(a){var b=/.*-p-([0-9]*)\.html/;return(a=b.exec(a))?encodeURIComponent(a[1]):0},CheckCategoryPage:function(){var a=/.*-c-([0-9]*)[-.html]/;return(a=a.exec(this.Site))?encodeURIComponent(a[1]):0},IsHidden:function(a){return null===a.offsetParent},_GetPinterestKeyWords:function(a){var b=-1<a.indexOf("/buy/")?/\/buy\/([^/]*)[.]/:/\/search\/([^/]*)[.]/;return(a=b.exec(a))?a[1]:""},_GetTopFiveGoodsList:function(){var a=
+document.querySelector(".goodlist_1"),b=[];if(a){a=a.querySelectorAll("li");for(var d=0;d<a.length;d++){var c=a[d].querySelector("a");c&&5>b.length&&(c=c.getAttribute("href"),b.push(this.GetPid(c)))}}return b},getCookie:function(a){a+="\x3d";for(var b=document.cookie.split(";"),d=0;d<b.length;d++){for(var c=b[d];" "==c.charAt(0);)c=c.substring(1);if(-1!=c.indexOf(a))return c.substring(a.length,c.length)}return""},Init:function(){var a=this.getCookie("_bgLang").split("-")[0],b=this.getCookie("googtrans").replace(/\/.*\/(.*)/,
+"$1");b&&(a=b);var d="id\x3dpr_1gbGFgUPZFQaJsurUWMX\x26id\x3dpr_1gbGFgUPZFQaJsurUWMX_custom_language_"+a;null!=document.querySelector(".main-activity")&&(d="id\x3dpr_1gbGFgUPZFQaJsurUWMX_home\x26id\x3dpr_1gbGFgUPZFQaJsurUWMX_custom_language_"+a);0<this.CheckCategoryPage()&&(b=this.CheckCategoryPage(),d="id\x3dpr_1gbGFgUPZFQaJsurUWMX_category2_"+b+"\x26id\x3dpr_1gbGFgUPZFQaJsurUWMX_custom_language_"+a);0<this.GetPid(this.Site)&&(b=this.GetPid(this.Site),d="id\x3dpr_1gbGFgUPZFQaJsurUWMX_offer_"+b+"\x26id\x3dpr_1gbGFgUPZFQaJsurUWMX_custom_language_"+
+a);if(-1<this._Pathname.indexOf("/buy/")||-1<this._Pathname.indexOf("/search/")){var c=this._GetTopFiveGoodsList();c.length&&(c=c.join(","),d="id\x3dpr_1gbGFgUPZFQaJsurUWMX_listing_"+c+"\x26id\x3dpr_1gbGFgUPZFQaJsurUWMX_custom_language_"+a)}if(null!=document.getElementById("step_one_main")){var h=document.getElementsByClassName("newcart_main");c=[];for(b=0;b<h.length;b++){var f=h[b].getElementsByTagName("ul");if(0<f.length)for(var e=0;e<f.length;e++){var g=f[e].getAttribute("cart_id");g=g.split("_")[0];
+c.push(g)}}c.length&&(c=c.join(","),d="id\x3dpr_1gbGFgUPZFQaJsurUWMX_basketstatus_"+c+"\x26id\x3dpr_1gbGFgUPZFQaJsurUWMX_custom_language_"+a)}null!=document.getElementById("step_two_main")&&(d="id\x3dpr_1gbGFgUPZFQaJsurUWMX_startorder\x26id\x3dpr_1gbGFgUPZFQaJsurUWMX_custom_language_"+a);if(null!=document.querySelector("input[name\x3d'dbm_checkout_success']"))for(b=this.Status=0;b<document.getElementsByName("dbm_checkout_success").length;b++){d=[];e=document.getElementsByName("dbm_checkout_success")[b];
+c=e.parentNode.getElementsByTagName("li");"undefined"!=typeof checkout_success_paypal&&(c=e.parentNode.getElementsByTagName("ul"));for(e=0;e<c.length;e++)d.push(c[e].querySelector("input[name\x3d'ItemProductID']").value);c=document.getElementsByName("dbm_checkout_success")[b].value;e=document.getElementsByName("tbhouse_checkout_success")[b].value;d=d.join(",");d="id\x3dpr_1gbGFgUPZFQaJsurUWMX_orderstatus2_"+e+"_"+a+"-"+c+"_"+d+"\x26cd\x3ddefault";this.createFrame(d)}0<this.Status&&this.createFrame(d)},
+createFrame:function(a){var b=document.createElement("iframe");b.src="https://us.creativecdn.com/tags?"+a;b.width="1";b.height="1";b.scrolling="no";b.frameBorder="0";b.style.display="none";document.body.appendChild(b)}};setTimeout(function(){RtbHouseItem.Init()},3E3);</script><script type="text/javascript" id="" src="https://www.artfut.com/static/tagtag.min.js?campaign_code=6213826a88"></script> <script type="text/javascript" id="">(function(a,e,f,g,b,c,d,h){a.ITCLKOBJ=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://analytics.webgains.io/clk.min.js","ITCLKQ");ITCLKQ("set","internal.cookie",!0);ITCLKQ("click");</script>
+<script type="text/javascript" id="">(function(a,b,e){if(!a.snaptr){var c=a.snaptr=function(){c.handleRequest?c.handleRequest.apply(c,arguments):c.queue.push(arguments)};c.queue=[];var d="script";a=b.createElement(d);a.async=!0;a.src=e;b=b.getElementsByTagName(d)[0];b.parentNode.insertBefore(a,b)}})(window,document,"https://sc-static.net/scevent.min.js");
+setTimeout(function(){window.sessionStorage.getItem("eem")||window.snapchatData&&window.snapchatData.signup?snaptr("init","8949c4ea-a75d-4e2e-ad05-eec65738b20c",{user_email:window.sessionStorage.getItem("eem")||window.snapchatData.signup.user_email}):snaptr("init","8949c4ea-a75d-4e2e-ad05-eec65738b20c");snaptr("track","PAGE_VIEW")},3E3);</script>
+
+<script type="text/javascript" id="">setTimeout(function(){window.snapchatData&&window.snapchatData.shopping_cart&&snaptr("track","START_CHECKOUT",window.snapchatData.shopping_cart)},3100);</script>
+<script type="text/javascript" id="">(function(a){a._tt_config=!0;a._taq=a._taq||[];a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=document.location.protocol+"//s0.ipstatp.com/ad/business/track-log.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})(window);</script><script type="text/javascript" id="">window._taq&&_taq.push({convert_id:"1605203664979978",event_type:"view"});</script>
+<script src="https://js.braintreegateway.com/web/3.38.1/js/google-payment.min.js"></script>
+<script src="https://js.braintreegateway.com/web/3.38.1/js/data-collector.min.js"></script>
+<script src="//css.banggood.com/min/f=/js/shopcart/googlePay.js,/js/jquery.cpfcheck.js,/js/jquery.cpnjcheck.js,/js/jq.modal.layer.js,/js/common_new.js,/js/jq.time.js,/js/lzstring/lz-string.min.js,/js/query_handler.js,/libs/loginPop/js/loginPop_cart.js,/js/shopcart/aadhaar.js,/js/shopcart/newcart_funtion.js,/js/shopcart/newcart_common.js?v=201905241524105231100"></script><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.13084720252094373"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.7866580750599241" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=5038249&amp;Ver=2&amp;mid=c513031a-0e12-1ada-cfa6-1d5d126cd0df&amp;pi=1200101525&amp;lg=en-US&amp;sw=1366&amp;sh=768&amp;sc=24&amp;tl=Shopping%20Cart%20-%20www.banggood.com&amp;p=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html&amp;r=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html&amp;evt=pageLoad&amp;msclkid=N&amp;rn=573978"></div><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.5083292366764602"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.6146812171048865" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=5256640&amp;Ver=2&amp;mid=8ca28447-bc04-4439-c305-7138213a108b&amp;pi=1200101525&amp;lg=en-US&amp;sw=1366&amp;sh=768&amp;sc=24&amp;tl=Shopping%20Cart%20-%20www.banggood.com&amp;p=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html&amp;r=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html&amp;evt=pageLoad&amp;msclkid=N&amp;rn=703443"></div><script type="text/javascript">!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//www.rtb123.com/tags/60CE2906-6735-5900-A7B5-B13CEA2B4908/btp.js";var t=document.getElementsByTagName("head")[0];t?t.appendChild(e,t):(t=document.getElementsByTagName("script")[0]).parentNode.insertBefore(e,t)}();</script>
+<script type="text/javascript" id="">if(!wcs_add)var wcs_add={};wcs_add.wa="s_125414200a53";if(!_nasa)var _nasa={};wcs.inflow("banggood.com");wcs_do(_nasa);</script>
+<script type="text/javascript" id="">var naverWcslogItem={Status:0,LoadScript:function(b,c){var a=document.createElement("script");a.type="text/javascript";a.async="async";a.src=b;document.body.appendChild(a);a.readyState?a.onreadystatechange=function(){if("complete"==a.readyState||"loaded"==a.readyState)a.onreadystatechange=null,c()}:a.onload=function(){c()}},LoadCommon:function(){if(!b)var b={};b.wa="s_125414200a53";if(!c)var c={};wcs.inflow("banggood.com");wcs_do(c)},Init:function(){if(null!=document.querySelector("input[name\x3d'dbm_checkout_success']")){this.Status=
+1;var b=this;b.LoadScript("https://www.banggood.com/cache/static_cache/currency_huilv.js",function(){b.LoadScript("https://css.banggood.com/js/currency.js",function(){wcs.cnv("1",getPriceByCurrency(AllAmount,"KRW"));b.LoadCommon()})})}}};setTimeout(function(){naverWcslogItem.Init()},3E3);</script>
+<script src="//css.banggood.com/min/f=/js/rd.js,/js/jg.js,/js/SEM.js?v=2019052415241"></script><div class="conversantTagManager" style="display: none;"></div><script src="https://w-it.m-t.io/tag?type=impr&amp;date=1558993733901"></script>
+<script src="https://dccss.banggood.com/dc/release/bgd.js?v=20190524"></script>
+    		<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+<script type="text/javascript">
+window.criteo_q = window.criteo_q || [];
+window.criteo_q.push(
+        { event: "setAccount", account: {an:"banggood", cn: "co", ln: "en"} },
+        { event: "setCustomerId", id: "0" },
+        { event: "setHashedEmail", email: ""},
+        { event: "setSiteType", type: "d" },
+        { event: "viewBasket", currency: "USD",item: [
+              {id: '1352971', price:'34.99', quantity:'1'}
+]});
+</script>   
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement(
+      {
+        pageLanguage: "en",
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+        multilanguagePage: true,
+        gaTrack: true,
+        gaId: "UA-3406726-2"
+      },
+      "google_translate_element"
+    );
+  }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+<script type="text/javascript" id="">AT.init({campaign_id:409,is_reoccur:1,is_lastclick:1,aff_sid_param:"utm_campaign"});AT.track();</script>
+ 
+<script type="text/javascript">
+        var DBMGoogle_PID = DBMGoogle_TYPE = DBMGoogle_TOTAL = DBMGoogle_CID = 0;
+
+        var DBMGoogle = {
+            vp : document.location.href,
+            site: document.location.host,
+
+            getproductID: function(url,host){
+                var s =  new RegExp(".*-p-([0-9]*)\\.html");
+                var g = s.exec(url);
+                return g ? encodeURIComponent(g[1]) : 0
+            },
+
+            getcategoryID: function(url,host){
+                var s =  new RegExp(".*-c-([0-9]*)[-.]");
+                var g = s.exec(url);
+                return g ? encodeURIComponent(g[1]) : 0
+            },
+
+            getfirstCID: function(){
+                var bid = document.querySelector('ol[class="inhere"]'),
+                    a = bid.getElementsByTagName('a'),
+                    c = bid.getElementsByTagName('li'),
+                    b = [];
+                for(var i=0;i<a.length;i++){
+                    var href = a[i].innerText;
+                    b.push(href);
+                }
+
+                if(a.length == 1){
+                    return c[2].innerText;
+                }else{
+                    return b[1];
+                }
+            },
+
+            init: function(){
+                DBMGoogle_PID = this.getproductID(this.vp, this.site);
+                DBMGoogle_CID = this.getcategoryID(this.vp, this.site);
+                if(DBMGoogle_CID>0){
+                    DBMGoogle_TYPE = 'categorypage';
+                    DBMGoogle_CID = this.getfirstCID();
+                }
+
+                if(DBMGoogle_PID > 0){
+                    DBMGoogle_TOTAL = document.querySelector('meta[itemprop="price"]').getAttribute('content');
+                    DBMGoogle_TYPE = 'productpage';
+                    DBMGoogle_CID = this.getfirstCID();
+                    if(document.querySelector('meta[itemprop="sku"]') != null){
+                        DBMGoogle_PID = document.querySelector('meta[itemprop="sku"]').getAttribute('content');
+                    }
+                }
+            }
+        };
+        var DBMGoogletimer = DBMGoogleCount = 0;
+        DBMGoogletimer = setInterval(function () {
+            if(DBMGoogleCount == 15)return;
+            if(document.querySelector('ol[class="inhere"]') != null || document.querySelector("input[name='dbm_checkout_success']") != null || typeof(_DBMPosition) != 'undefined'){
+                DBMGoogle.init();
+                if(DBMGoogle_CID.length>0){
+                    var axel = Math.random() + '';
+                    var a = axel * 10000000000000;
+                    var DBMGoogle_DIV=document.createElement("div");
+                    DBMGoogle_DIV.innerHTML = '<iframe src="https://4827907.fls.doubleclick.net/activityi;src=4827907;type=invmedia;cat=n19qucqk;u1='+decodeURI(DBMGoogle_CID)+';u2='+DBMGoogle_PID+';u3='+DBMGoogle_TYPE+';u4='+DBMGoogle_TOTAL+';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>';  
+                    document.body.appendChild(DBMGoogle_DIV);                   
+                }else{
+                    for(var i=0;i<document.getElementsByName("dbm_checkout_success").length;i++){
+                        var label = document.getElementsByName("dbm_checkout_success")[i];
+                        var allitemprice = 0;
+                        var ItemTotalPriceList = label.parentNode.getElementsByTagName("li");
+                        if(typeof(checkout_success_paypal) != 'undefined'){
+                            ItemTotalPriceList = label.parentNode.getElementsByTagName("ul");
+                        }
+                        for(var j=0;j<ItemTotalPriceList.length;j++){
+                            var eachprice = ItemTotalPriceList[j].querySelector("input[name='ItemTotalPrice']").value;
+                            allitemprice = Number(allitemprice) + Number(eachprice)
+                        }
+                        var OrderID = document.getElementsByName("dbm_checkout_success")[i].value;
+                        var DBMGoogle_DIV=document.createElement("div");
+                        DBMGoogle_DIV.innerHTML = '<iframe src="https://4827907.fls.doubleclick.net/activityi;src=4827907;type=sales;cat=lwukll2v;qty='+ItemTotalPriceList.length+';cost='+allitemprice+';u1='+DBMGoogle_CID+';u2='+DBMGoogle_PID+';u3='+DBMGoogle_TYPE+';u4='+DBMGoogle_TOTAL+';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + OrderID + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>';
+                        document.body.appendChild(DBMGoogle_DIV);
+                   }
+                }
+                if(typeof(_DBMPosition) != 'undefined'){
+                    DBMGoogle_CID = DBMGoogle_TYPE = _DBMPosition;
+                    if(_DBMPosition == 'shoppingcart'){
+                        var shoppingcarttimer = shoppingcartCount = 0;
+                        shoppingcarttimer = setInterval(function () {
+                            if(shoppingcartCount == 10)return;
+                            if(typeof(DBMCARTStatus) != 'undefined' && DBMCARTStatus > 1){
+                                var DBMGoogle_DIV=document.createElement("div");
+                                DBMGoogle_DIV.innerHTML = '<iframe src="https://4827907.fls.doubleclick.net/activityi;src=4827907;type=invmedia;cat=n19qucqk;u1='+decodeURI(DBMGoogle_CID)+';u2='+window.localStorage.getItem("_DBMLastProductID")+';u3='+DBMGoogle_TYPE+';u4='+window.localStorage.getItem("_DBMLastProductPRICE")+';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>';  
+                                document.body.appendChild(DBMGoogle_DIV);
+                                clearInterval(shoppingcarttimer);
+                            }
+                             shoppingcartCount++;
+                        },2000);
+                    }else{
+                        var DBMGoogle_DIV=document.createElement("div");
+                        DBMGoogle_DIV.innerHTML = '<iframe src="https://4827907.fls.doubleclick.net/activityi;src=4827907;type=invmedia;cat=n19qucqk;u1='+decodeURI(DBMGoogle_CID)+';u2='+DBMGoogle_PID+';u3='+DBMGoogle_TYPE+';u4='+DBMGoogle_TOTAL+';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>';  
+                        document.body.appendChild(DBMGoogle_DIV);
+                    }
+                    
+                    
+                }
+                clearInterval(DBMGoogletimer);
+            }
+            DBMGoogleCount++;
+        },2000);
+</script>
+
+
+<script src="https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id=0&amp;txn_id=nxqzn&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fwww.banggood.com%2Fshopping_cart.html" type="text/javascript"></script><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><div name="Smarter Click"><script> 
+(function(s,m,a,r,t){
+s[r]=s[r]||[];var f=m.getElementsByTagName(a)[0],j=m.createElement(a),dl=r!='dataLayer'?'&r='+r:''; j.async=true;j.src='//smct.co/tm/?t='+t+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','banggood.com'); </script></div><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe frameborder="0" class="goog-te-menu-frame skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 1022px; height: 263px; display: none;"></iframe><div id="criteo-tags-div" style="display: none;"><iframe height="0" width="0" src="//dis.us.criteo.com/dis/dis.aspx?p=42071&amp;cb=27175301729&amp;ref=https%3A%2F%2Fwww.banggood.com%2FMens-Plus-Size-Wool-Blend-Double-Side-Wearable-Thicken-Warm-Fur-Wool-Blend-Mid-Long-Coats-p-1352971.html%3Frmmds%3Dsearch%26ID%3D224528184%26cur_warehouse%3DCN&amp;sc_r=1366x768&amp;sc_d=24" title="Criteo DIS iframe" style="display: none;"></iframe></div></body></html>
