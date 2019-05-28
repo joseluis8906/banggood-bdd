@@ -11,7 +11,6 @@ import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 import net.thucydides.core.annotations.Managed;
-import net.thucydides.core.annotations.WithTag;
 
 //cucumber
 import static net.serenitybdd.screenplay.GivenWhenThen.givenThat;
@@ -35,8 +34,7 @@ import static com.banggood.tasks.LookingForAnything.lookingForAnything;
 import static com.banggood.tasks.OpenPageAtHome.openPageAtHome;
 import static com.banggood.tasks.SelectItemFromResultList.*;
 
-@WithTag(type = "feature", name = "buyAnything")
-public class BuyAnythingStepDefinitions {
+public class ShouldSeeAndBuyAnythingStepsDefinition {
 	@Managed
 	WebDriver browser;
 	Actor jose = Actor.named("Jose");
