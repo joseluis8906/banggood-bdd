@@ -11,7 +11,6 @@ public class NothingToDo {
 	@When("Pepe make some action")
 	public void makeSomeAction() {}
 	
-	
 	@Then("Pepe should see movements in the page")
 	public void seeMovementInThePage() {}
 }
