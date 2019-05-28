@@ -17,7 +17,8 @@ Feature: Buy anything
     	Given Juan want to add items to list
     	When Juan attemp to add 'anything' item to the list
     	Then  Juan shoul see the item in the list
-    	
+    
+    @Ignore
     @NothingSceneario
     Scenario: Nothing to do
     	Given Pepe want to make nothing
