@@ -9,7 +9,3 @@ Prueba bdd banggood.com
 5). Abrir el archivo index.html del directorio target/site/serenity.<br>
 6). Revisar el informe de pruebas junto a los screenshot que traceo serenity.<br>
 
-# Revisión directa sin ejecución:
-1). Clonar el proyecto "git clone https://github.com/joseluis8906/banggood-bdd".<br>
-2). Abrir el archivo index.html del directorio target/site/serenity/.<br>
-6). Revisar el informe de pruebas junto a los screenshot que traceo serenity.<br>
